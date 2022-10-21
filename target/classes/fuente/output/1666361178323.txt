@@ -1,0 +1,5 @@
+311,"Ruperto Ortiz","Apou817",2018-05-12,-30462.0,28345.0,"Se perdió por el mercado de huacho en la mañana solo",false,1
+312,"Pedro Solis","Anlop251",2020-09-03,24912.0,-44670.0,"La última vez que lo ví fue por la vereda en la madrugada con otros perros",false,1
+313,"Marco Turpaleon","Apou205",2020-09-11,-13758.0,-56329.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la tarde solo",false,1
+314,"María Zaenz","Aloiy649",2020-04-24,40693.0,-64424.0,"Se perdió por la plaza en la madrugada con otros perros",false,1
+315,"Marco Ramírez","Alñoid769",2019-05-22,-27510.0,-9538.0,"Se fue por la villa en la noche con otros perros",false,1

@@ -1,0 +1,5 @@
+946,"Juan Claros","Anlop774",2020-07-04,47774.0,-61903.0,"Se marchó por la vereda en la tarde con otros perros",false,1
+947,"Juan Vasquez","Lacy341",2021-02-21,21365.0,33192.0,"Se fue por el mercado de huacho en la mañana solo",false,1
+948,"Ruperto Claros","Alñoid163",2019-03-17,499.0,-43567.0,"Se marchó por la plaza en la madrugada con otros perros",false,1
+949,"Ruperto Vasquez","Alpy979",2020-11-24,-56371.0,21719.0,"Se fue por el mercado de lima en la noche con una niña",false,1
+950,"Marco Turpaleon","Lacy220",2020-02-04,-1021.0,24738.0,"Se marchó por la plaza en la tarde con un niño",false,1

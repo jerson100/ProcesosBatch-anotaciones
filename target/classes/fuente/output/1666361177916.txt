@@ -1,0 +1,5 @@
+171,"Ana Turpaleon","Aloiy791",2019-08-20,-13903.0,9210.0,"Se marchó por el mercado de huacho en la noche con una niña",false,1
+172,"Mirto Ortiz","Alio824",2019-11-05,-32185.0,25560.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana con un niño",false,1
+173,"Ana Ramírez","Anlop820",2019-07-04,-44628.0,-66811.0,"Se fue por la escuela x en la tarde con una niña",false,1
+174,"Ruperto Turpaleon","Lacy777",2019-12-07,-51103.0,49290.0,"Se fugó por la pista en la mañana con otros perros",false,1
+175,"María Zaenz","Alio846",2019-06-17,2090.0,-67836.0,"Se fue por la pista en la madrugada con una niña",false,1

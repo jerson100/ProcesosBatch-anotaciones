@@ -1,0 +1,5 @@
+811,"Mirto Ramírez","Apou14",2020-11-19,41898.0,-26723.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche con una niña",false,1
+812,"Manuel Claros","Alio24",2019-06-25,49320.0,-26851.0,"Se marchó por la escuela x en la madrugada con otros perros",false,1
+813,"María Turpaleon","Aloiy416",2021-08-09,-53002.0,8859.0,"Se fugó por la pista en la tarde con otros perros",false,1
+814,"Pedro Zaenz","Alio393",2020-09-21,-35543.0,-17305.0,"Se marchó por la escuela x en la mañana con una niña",false,1
+815,"Manuel Solis","Alpy370",2018-10-12,2369.0,-59722.0,"Se marchó por la pista en la tarde solo",false,1

@@ -1,0 +1,5 @@
+576,"Juan Ortiz","Apou545",2018-11-02,-31784.0,-16194.0,"La última vez que lo ví fue por la escuela x en la mañana con un niño",false,1
+577,"Marco Turpaleon","Lacy875",2020-02-03,30638.0,30522.0,"La última vez que lo ví fue por la plaza en la mañana solo",false,1
+578,"Juan Ortiz","Apou957",2021-07-06,20795.0,39978.0,"La última vez que lo ví fue por la villa en la mañana con un niño",false,1
+579,"María Claros","Alpy837",2020-02-02,15468.0,-38947.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la madrugada con un niño",false,1
+580,"Pedro Claros","Alñoid955",2020-11-07,-38794.0,14243.0,"La última vez que lo ví fue por la pista en la mañana con una niña",false,1

@@ -1,0 +1,5 @@
+961,"Pedro Ramírez","Aloiy289",2021-07-14,6129.0,-44744.0,"La última vez que lo ví fue por la plaza en la tarde solo",false,1
+962,"María Ortiz","Luna471",2018-02-18,14891.0,-58556.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la madrugada solo",false,1
+963,"Pedro Turpaleon","Apou685",2019-03-22,29180.0,16742.0,"Se perdió por la playa en la tarde solo",false,1
+964,"María Vasquez","Alñoid994",2021-09-12,416.0,44049.0,"Se marchó por la vereda en la madrugada con otros perros",false,1
+965,"Manuel Turpaleon","Luna479",2019-04-16,-11974.0,-35663.0,"Se marchó por la vereda en la mañana solo",false,1

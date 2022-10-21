@@ -1,0 +1,5 @@
+271,"Mirto Ortiz","Alñoid336",2020-07-06,5921.0,-61646.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la madrugada solo",false,1
+272,"Marco Solis","Apou473",2018-02-11,-36869.0,-2364.0,"Se marchó por la playa en la madrugada con una niña",false,1
+273,"Manuel Vasquez","Apou40",2018-07-04,34484.0,-17378.0,"Se perdió por la escuela x en la noche con un niño",false,1
+274,"Ana Vasquez","Alpy174",2018-08-05,-49689.0,-58906.0,"Se fugó por la vereda en la noche con un niño",false,1
+275,"Marco Ortiz","Ajui420",2019-05-05,-18172.0,32223.0,"Se fugó por el mercado de huacho en la noche con una niña",false,1

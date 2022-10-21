@@ -1,0 +1,5 @@
+421,"Marco Turpaleon","Alio929",2019-01-17,-47393.0,-14887.0,"Se marchó por la plaza en la madrugada con un niño",false,1
+422,"Juan Solis","Aloiy323",2021-04-17,45113.0,29884.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con un niño",false,1
+423,"Mirto Ramírez","Alio959",2018-04-17,-22822.0,31758.0,"Se fugó por el mercado de lima en la noche solo",false,1
+424,"Ruperto Claros","Alpy611",2019-09-02,-12761.0,27772.0,"Se marchó por la vereda en la mañana con un niño",false,1
+425,"Marco Ramírez","Aloiy915",2021-12-10,7740.0,13718.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con otros perros",false,1

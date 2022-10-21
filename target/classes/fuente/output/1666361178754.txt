@@ -1,0 +1,5 @@
+661,"María Ramírez","Alñoid814",2019-09-06,-47696.0,32451.0,"Se perdió por el mercado de lima en la madrugada con otros perros",false,1
+662,"Ana Turpaleon","Alio858",2018-05-17,13507.0,-24168.0,"La última vez que lo ví fue por el mercado de lima en la mañana con un niño",false,1
+663,"Pedro Ortiz","Alñoid555",2019-02-04,36721.0,47759.0,"Se fue por la pista en la tarde solo",false,1
+664,"Marco Zaenz","Ajui193",2018-07-06,-53828.0,19747.0,"Se fue por la pista en la noche con una niña",false,1
+665,"Ruperto Ramírez","Aloiy708",2018-02-21,-38593.0,-615.0,"Se fugó por la plaza en la noche con un niño",false,1

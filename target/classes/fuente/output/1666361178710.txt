@@ -1,0 +1,5 @@
+621,"Marco Claros","Anlop928",2018-05-12,-54878.0,-4234.0,"La última vez que lo ví fue por el mercado de huacho en la madrugada con un niño",false,1
+622,"Juan Ortiz","Aloiy80",2021-05-05,-69004.0,35308.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la mañana con un niño",false,1
+623,"Ruperto Ramírez","Alio370",2021-05-10,31042.0,-68660.0,"Se perdió por la escuela x en la mañana con otros perros",false,1
+624,"Manuel Zaenz","Luna238",2019-10-25,48186.0,3319.0,"Se fugó por la plaza en la tarde con un niño",false,1
+625,"Juan Quispe","Ajui669",2021-02-19,-30122.0,45783.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la madrugada solo",false,1

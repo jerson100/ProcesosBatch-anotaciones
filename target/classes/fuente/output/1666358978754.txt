@@ -1,0 +1,5 @@
+446,"Mirto Ramírez","Ajui236",2019-06-20,25590.0,-30043.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con otros perros",false,1
+447,"Marco Claros","Ajui590",2019-02-20,-25223.0,-2921.0,"La última vez que lo ví fue por la villa en la madrugada solo",false,1
+448,"Mirto Ramírez","Lacy379",2020-12-16,36035.0,-58347.0,"Se fue por la playa en la tarde con una niña",false,1
+449,"Ana Claros","Anlop658",2021-08-12,-29666.0,24769.0,"Se perdió por la vereda en la tarde solo",false,1
+450,"Marco Ortiz","Anlop815",2019-09-15,-59784.0,38195.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la tarde solo",false,1

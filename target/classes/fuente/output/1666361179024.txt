@@ -1,0 +1,5 @@
+936,"Ruperto Claros","Aloiy221",2018-03-01,-30181.0,-1109.0,"Se marchó por la escuela x en la noche con una niña",false,1
+937,"Ruperto Quispe","Alñoid956",2018-07-19,45806.0,-23978.0,"La última vez que lo ví fue por la plaza en la noche solo",false,1
+938,"María Ramírez","Ajui742",2021-10-04,9373.0,-18391.0,"Se perdió por el mercado de lima en la mañana solo",false,1
+939,"Ana Vasquez","Alpy70",2021-02-08,20370.0,8111.0,"Se fugó por el mercado de huacho en la tarde solo",false,1
+940,"Juan Vasquez","Luna998",2021-12-16,47374.0,32545.0,"Se fugó por la pista en la tarde con un niño",false,1

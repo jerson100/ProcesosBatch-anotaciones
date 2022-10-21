@@ -1,0 +1,5 @@
+531,"Ruperto Ramírez","Anlop132",2019-03-15,30203.0,16109.0,"Se perdió por el mercado de huacho en la tarde con otros perros",false,1
+532,"Marco Turpaleon","Aloiy888",2020-08-02,-23832.0,29250.0,"Se fugó por el mercado de huacho en la noche con otros perros",false,1
+533,"Manuel Vasquez","Alio217",2018-11-07,39898.0,-30465.0,"Se fugó por el mercado de huacho en la madrugada con un niño",false,1
+534,"Manuel Ortiz","Anlop910",2018-10-22,-60023.0,28260.0,"Se fue por la villa en la madrugada con otros perros",false,1
+535,"Pedro Vasquez","Apou340",2020-03-13,-9974.0,3775.0,"Se fue por la villa en la tarde con otros perros",false,1

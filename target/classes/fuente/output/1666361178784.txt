@@ -1,0 +1,5 @@
+691,"Ruperto Ramírez","Anlop644",2018-07-15,21602.0,-49638.0,"La última vez que lo ví fue por la plaza en la noche solo",false,1
+692,"Mirto Zaenz","Luna859",2019-09-03,-1034.0,-51496.0,"La última vez que lo ví fue por el mercado de huacho en la madrugada con un niño",false,1
+693,"Marco Solis","Aloiy882",2021-12-03,-68141.0,25822.0,"Se marchó por la playa en la tarde con otros perros",false,1
+694,"Juan Vasquez","Ajui539",2021-09-06,12720.0,-59232.0,"Se marchó por la playa en la noche con otros perros",false,1
+695,"Marco Claros","Ajui178",2020-10-25,-57927.0,-46635.0,"Se marchó por la pista en la tarde solo",false,1

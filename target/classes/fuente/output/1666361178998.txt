@@ -1,0 +1,5 @@
+906,"Pedro Claros","Lacy300",2020-02-11,-34613.0,-69202.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la madrugada con un niño",false,1
+907,"María Solis","Anlop205",2019-05-22,-11366.0,49427.0,"Se fugó por la plaza en la mañana con un niño",false,1
+908,"Manuel Quispe","Alpy462",2018-05-09,17865.0,-29694.0,"Se perdió por la playa en la noche solo",false,1
+909,"Ruperto Solis","Alpy295",2020-01-14,-1709.0,19602.0,"La última vez que lo ví fue por la plaza en la noche con un niño",false,1
+910,"Mirto Turpaleon","Ajui794",2019-11-06,-7212.0,20456.0,"La última vez que lo ví fue por la pista en la mañana con un niño",false,1

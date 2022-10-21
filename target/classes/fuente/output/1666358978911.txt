@@ -1,0 +1,5 @@
+591,"Mirto Quispe","Apou770",2020-11-24,32162.0,-29853.0,"Se marchó por la pista en la noche con un niño",false,1
+592,"Ruperto Vasquez","Luna431",2019-12-21,38128.0,-53131.0,"La última vez que lo ví fue por la playa en la madrugada con una niña",false,1
+593,"Ruperto Solis","Aloiy649",2021-06-01,-21079.0,6159.0,"Se marchó por la escuela x en la tarde con un niño",false,1
+594,"Ana Claros","Alñoid25",2020-05-19,37686.0,-60481.0,"La última vez que lo ví fue por la plaza en la noche con otros perros",false,1
+595,"Marco Zaenz","Ajui11",2020-01-07,-11341.0,-10515.0,"Se marchó por el mercado de huacho en la noche con otros perros",false,1

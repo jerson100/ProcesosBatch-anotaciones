@@ -1,0 +1,5 @@
+486,"Ruperto Solis","Aloiy959",2019-12-19,49191.0,-4979.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana solo",false,1
+487,"Marco Ortiz","Ajui401",2020-09-22,7996.0,-62961.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con una niña",false,1
+488,"María Vasquez","Alio457",2018-02-13,-35511.0,-14389.0,"Se fugó por la playa en la madrugada solo",false,1
+489,"María Vasquez","Ajui953",2020-04-17,-58088.0,976.0,"Se perdió por la villa en la madrugada con una niña",false,1
+490,"Manuel Claros","Alñoid205",2018-01-06,-54139.0,-12030.0,"Se perdió por la pista en la tarde con una niña",false,1

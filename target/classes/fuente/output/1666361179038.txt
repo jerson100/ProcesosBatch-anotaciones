@@ -1,0 +1,5 @@
+951,"María Vasquez","Alio106",2018-05-24,-43285.0,26442.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la noche con un niño",false,1
+952,"Ana Quispe","Luna983",2020-05-09,40180.0,-47612.0,"Se perdió por la pista en la madrugada solo",false,1
+953,"Ana Ortiz","Alio251",2019-09-16,-68224.0,27879.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche con una niña",false,1
+954,"Juan Solis","Apou440",2021-10-22,2981.0,20590.0,"Se perdió por la escuela x en la tarde con un niño",false,1
+955,"Mirto Claros","Apou354",2020-09-11,-3839.0,17571.0,"Se fue por el mercado de lima en la mañana solo",false,1

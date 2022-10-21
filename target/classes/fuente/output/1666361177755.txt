@@ -1,0 +1,5 @@
+61,"Ana Vasquez","Alpy617",2018-08-15,34406.0,40685.0,"La última vez que lo ví fue por la plaza en la noche con una niña",false,1
+62,"Juan Ortiz","Luna4",2020-03-20,-3716.0,-1831.0,"La última vez que lo ví fue por la plaza en la tarde con una niña",false,1
+63,"Ruperto Turpaleon","Alio687",2020-09-12,32928.0,21366.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con un niño",false,1
+64,"Ana Turpaleon","Alpy416",2018-04-14,-17187.0,2293.0,"Se fue por la pista en la tarde solo",false,1
+65,"Marco Ortiz","Ajui297",2019-08-08,-3918.0,-26453.0,"Se marchó por la plaza en la madrugada con una niña",false,1

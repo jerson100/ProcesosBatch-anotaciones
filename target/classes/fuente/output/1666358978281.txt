@@ -1,0 +1,5 @@
+66,"Juan Claros","Lacy576",2020-10-07,-1280.0,-25017.0,"Se fue por la vereda en la mañana con otros perros",false,1
+67,"Marco Zaenz","Alio834",2019-06-14,37611.0,48356.0,"Se marchó por la vereda en la madrugada con una niña",false,1
+68,"Ana Solis","Apou384",2019-04-09,-24626.0,-23050.0,"Se fugó por la plaza en la mañana solo",false,1
+69,"Marco Claros","Anlop745",2018-06-12,-14578.0,-37994.0,"La última vez que lo ví fue por la escuela x en la mañana solo",false,1
+70,"Ana Solis","Apou542",2019-07-25,24702.0,23087.0,"Se perdió por la plaza en la madrugada con una niña",false,1

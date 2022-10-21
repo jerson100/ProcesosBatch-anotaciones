@@ -1,0 +1,5 @@
+191,"Ruperto Claros","Ajui793",2019-12-13,-45623.0,15841.0,"Se marchó por la plaza en la noche solo",false,1
+192,"Marco Ortiz","Apou41",2019-10-01,-6582.0,7705.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche solo",false,1
+193,"Ruperto Quispe","Anlop767",2021-02-11,13112.0,-35802.0,"Se fugó por el mercado de lima en la mañana con una niña",false,1
+194,"Mirto Solis","Alñoid612",2019-07-09,-6871.0,-29574.0,"Se marchó por el mercado de huacho en la tarde solo",false,1
+195,"Mirto Ramírez","Ajui543",2020-04-02,25300.0,45099.0,"Se marchó por la vereda en la noche solo",false,1

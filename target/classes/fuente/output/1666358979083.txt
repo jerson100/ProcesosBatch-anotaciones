@@ -1,0 +1,5 @@
+776,"Mirto Quispe","Anlop445",2018-08-15,-48946.0,-14511.0,"Se perdió por la pista en la tarde solo",false,1
+777,"Ana Zaenz","Ajui4",2018-07-24,-48221.0,35169.0,"La última vez que lo ví fue por la escuela x en la noche con un niño",false,1
+778,"Manuel Vasquez","Alpy695",2019-11-09,-45887.0,17326.0,"Se fugó por la villa en la mañana solo",false,1
+779,"Mirto Quispe","Lacy834",2018-06-24,23158.0,24576.0,"Se perdió por la playa en la noche solo",false,1
+780,"Ruperto Ramírez","Ajui654",2019-01-04,31779.0,36784.0,"Se marchó por la vereda en la tarde con una niña",false,1

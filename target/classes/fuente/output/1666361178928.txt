@@ -1,0 +1,5 @@
+826,"Manuel Solis","Alñoid66",2021-02-20,-26332.0,18319.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la madrugada solo",false,1
+827,"Ana Ramírez","Alñoid831",2018-04-10,28942.0,10138.0,"La última vez que lo ví fue por la plaza en la mañana con otros perros",false,1
+828,"Ana Vasquez","Alñoid870",2018-04-11,-64809.0,-27883.0,"Se fue por la plaza en la tarde con una niña",false,1
+829,"Juan Vasquez","Alio46",2019-10-11,-56313.0,16314.0,"Se fugó por la villa en la tarde con un niño",false,1
+830,"Manuel Zaenz","Anlop299",2018-06-25,-50601.0,-26259.0,"Se perdió por la villa en la noche solo",false,1

@@ -1,0 +1,5 @@
+1,"Marco Vasquez","Alñoid24",2021-12-03,44668.0,23976.0,"La última vez que lo ví fue por la villa en la mañana con otros perros",false,1
+2,"Juan Ramírez","Alpy202",2021-10-24,-36909.0,17016.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la tarde con otros perros",false,1
+3,"Marco Vasquez","Apou182",2018-01-16,-21113.0,36329.0,"La última vez que lo ví fue por la escuela x en la noche con otros perros",false,1
+4,"Manuel Claros","Ajui557",2019-06-07,-33475.0,-41963.0,"La última vez que lo ví fue por la pista en la tarde con una niña",false,1
+5,"Marco Claros","Apou493",2018-11-15,21676.0,-42045.0,"Se marchó por la pista en la mañana con un niño",false,1

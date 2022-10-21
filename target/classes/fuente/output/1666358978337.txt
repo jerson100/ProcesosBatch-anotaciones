@@ -1,0 +1,5 @@
+106,"Ana Claros","Lacy954",2020-10-04,-7583.0,8079.0,"Se fugó por la playa en la madrugada con una niña",false,1
+107,"Mirto Zaenz","Alpy380",2021-08-02,25660.0,-36310.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la mañana solo",false,1
+108,"Pedro Turpaleon","Aloiy515",2020-01-17,-49448.0,2754.0,"Se perdió por la pista en la noche con otros perros",false,1
+109,"Ana Quispe","Alio868",2019-11-15,-50492.0,-38782.0,"Se fugó por la vereda en la mañana con un niño",false,1
+110,"Pedro Quispe","Lacy705",2019-06-22,-52012.0,-67985.0,"Se fugó por el mercado de lima en la noche con una niña",false,1

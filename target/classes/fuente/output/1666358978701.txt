@@ -1,0 +1,5 @@
+406,"Pedro Solis","Aloiy259",2018-07-24,24439.0,965.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde solo",false,1
+407,"Mirto Claros","Alio173",2018-01-09,27863.0,-14318.0,"Se marchó por la plaza en la tarde con una niña",false,1
+408,"María Zaenz","Aloiy439",2019-05-23,-58150.0,26170.0,"Se fugó por el mercado de huacho en la madrugada con una niña",false,1
+409,"Manuel Vasquez","Anlop594",2018-12-06,-27675.0,2039.0,"Se fue por el mercado de lima en la tarde con otros perros",false,1
+410,"Ruperto Zaenz","Alio256",2018-01-18,34160.0,-60194.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con una niña",false,1

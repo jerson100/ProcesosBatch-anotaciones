@@ -1,0 +1,5 @@
+266,"María Ortiz","Apou88",2018-04-05,27885.0,24975.0,"La última vez que lo ví fue por la vereda en la madrugada con un niño",false,1
+267,"Ruperto Turpaleon","Anlop187",2019-04-18,-13223.0,-12145.0,"La última vez que lo ví fue por la plaza en la tarde con un niño",false,1
+268,"Marco Vasquez","Alñoid997",2020-02-08,49754.0,-29848.0,"Se fugó por el mercado de huacho en la noche con un niño",false,1
+269,"Ana Vasquez","Anlop105",2018-01-08,-27166.0,-34388.0,"Se marchó por el mercado de lima en la tarde con otros perros",false,1
+270,"Juan Ortiz","Alñoid309",2021-08-21,21206.0,-10216.0,"La última vez que lo ví fue por la playa en la mañana solo",false,1

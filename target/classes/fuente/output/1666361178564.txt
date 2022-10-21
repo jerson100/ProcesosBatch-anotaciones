@@ -1,0 +1,5 @@
+491,"Ruperto Solis","Anlop312",2018-10-12,-47397.0,-45494.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con una niña",false,1
+492,"Manuel Ortiz","Alio13",2020-05-18,-41927.0,-49799.0,"La última vez que lo ví fue por la villa en la mañana con otros perros",false,1
+493,"María Solis","Luna840",2019-08-08,8184.0,1819.0,"Se perdió por la escuela x en la noche con un niño",false,1
+494,"Mirto Quispe","Alio89",2019-12-06,-33813.0,-18209.0,"Se marchó por el mercado de huacho en la madrugada con un niño",false,1
+495,"Pedro Quispe","Anlop920",2020-03-14,47668.0,5659.0,"Se fue por la pista en la mañana con una niña",false,1

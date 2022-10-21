@@ -1,0 +1,5 @@
+911,"Ana Ramírez","Alio881",2019-10-05,30178.0,-14078.0,"Se perdió por el mercado de lima en la mañana con otros perros",false,1
+912,"María Zaenz","Apou224",2018-04-14,-1408.0,-65638.0,"Se perdió por el mercado de lima en la madrugada con un niño",false,1
+913,"Juan Claros","Lacy434",2018-10-17,-22118.0,8380.0,"Se perdió por la villa en la noche con un niño",false,1
+914,"Pedro Ramírez","Alpy992",2020-02-18,-1686.0,28158.0,"Se perdió por el mercado de huacho en la mañana solo",false,1
+915,"Mirto Claros","Apou605",2020-04-08,-68031.0,48757.0,"La última vez que lo ví fue por el mercado de huacho en la madrugada con un niño",false,1

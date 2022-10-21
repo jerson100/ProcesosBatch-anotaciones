@@ -1,0 +1,5 @@
+791,"Ruperto Vasquez","Alñoid902",2020-07-12,37942.0,-18977.0,"Se marchó por la pista en la noche con un niño",false,1
+792,"Ruperto Ortiz","Apou477",2021-05-01,-55814.0,-64443.0,"Se fue por la playa en la tarde con otros perros",false,1
+793,"María Zaenz","Apou198",2019-08-02,42641.0,-27757.0,"Se fue por la escuela x en la mañana con otros perros",false,1
+794,"Ana Ramírez","Anlop88",2020-02-17,-25984.0,-63141.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la tarde con una niña",false,1
+795,"Manuel Zaenz","Luna473",2020-06-08,-65923.0,-64326.0,"Se perdió por la vereda en la mañana con un niño",false,1

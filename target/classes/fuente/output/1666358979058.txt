@@ -1,0 +1,5 @@
+746,"Mirto Ortiz","Alpy649",2021-01-24,-45236.0,-43455.0,"Se fue por el mercado de lima en la mañana solo",false,1
+747,"María Quispe","Aloiy778",2021-09-11,-43551.0,-27420.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la tarde con una niña",false,1
+748,"María Turpaleon","Apou631",2021-10-17,27043.0,214.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana con un niño",false,1
+749,"Marco Claros","Luna166",2019-02-12,-58963.0,3703.0,"Se marchó por la villa en la tarde con un niño",false,1
+750,"Manuel Ramírez","Lacy613",2020-03-02,-59853.0,-28941.0,"Se perdió por el mercado de lima en la tarde con un niño",false,1

@@ -1,0 +1,5 @@
+46,"Marco Turpaleon","Alio235",2019-11-16,-12750.0,46335.0,"Se marchó por la villa en la mañana solo",false,1
+47,"Juan Quispe","Alio210",2019-12-04,2757.0,45430.0,"La última vez que lo ví fue por el mercado de huacho en la madrugada con una niña",false,1
+48,"Ruperto Vasquez","Alpy77",2021-11-25,32189.0,-31915.0,"Se fue por la escuela x en la noche con otros perros",false,1
+49,"Ruperto Solis","Alñoid861",2018-07-16,47095.0,-59794.0,"Se marchó por la playa en la mañana con otros perros",false,1
+50,"Ruperto Quispe","Aloiy761",2019-09-01,16602.0,32478.0,"Se perdió por la vereda en la madrugada solo",false,1

@@ -1,0 +1,5 @@
+696,"Marco Quispe","Lacy111",2019-10-22,-8950.0,48033.0,"Se perdió por la playa en la mañana con un niño",false,1
+697,"Mirto Ramírez","Apou473",2021-10-15,-17789.0,-61646.0,"La última vez que lo ví fue por la villa en la mañana con un niño",false,1
+698,"Ana Vasquez","Anlop199",2018-06-22,-67683.0,49236.0,"Se perdió por la playa en la noche con otros perros",false,1
+699,"María Ortiz","Alñoid456",2018-12-01,45271.0,4854.0,"Se marchó por la vereda en la noche con otros perros",false,1
+700,"Mirto Ortiz","Alpy143",2020-04-15,-1948.0,-6823.0,"Se marchó por la playa en la madrugada con una niña",false,1

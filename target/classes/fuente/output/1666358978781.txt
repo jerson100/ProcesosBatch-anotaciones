@@ -1,0 +1,5 @@
+466,"Mirto Vasquez","Alpy998",2018-11-20,2212.0,-36.0,"Se perdió por la escuela x en la madrugada con otros perros",false,1
+467,"Manuel Ramírez","Ajui216",2021-02-05,-28993.0,-15437.0,"Se perdió por la vereda en la noche con otros perros",false,1
+468,"Manuel Ortiz","Luna446",2020-07-12,49658.0,-45759.0,"Se marchó por la pista en la mañana con una niña",false,1
+469,"Ruperto Turpaleon","Ajui611",2021-07-14,-55571.0,-40175.0,"La última vez que lo ví fue por la plaza en la madrugada con otros perros",false,1
+470,"Ruperto Quispe","Aloiy260",2020-09-15,-50357.0,10770.0,"Se perdió por la vereda en la madrugada solo",false,1

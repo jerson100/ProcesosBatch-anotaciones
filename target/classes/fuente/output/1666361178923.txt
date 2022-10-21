@@ -1,0 +1,5 @@
+821,"Ruperto Claros","Aloiy320",2021-07-16,-35606.0,-6807.0,"Se fugó por la villa en la madrugada con una niña",false,1
+822,"Marco Ortiz","Anlop836",2020-05-24,25712.0,47656.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con una niña",false,1
+823,"Marco Quispe","Alpy748",2019-02-06,20678.0,33236.0,"Se perdió por la plaza en la noche con un niño",false,1
+824,"Mirto Vasquez","Apou945",2018-11-14,26648.0,-64108.0,"Se marchó por la playa en la noche solo",false,1
+825,"Manuel Turpaleon","Aloiy804",2020-08-20,6510.0,-6579.0,"La última vez que lo ví fue por la pista en la madrugada con un niño",false,1

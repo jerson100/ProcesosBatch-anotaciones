@@ -1,0 +1,5 @@
+21,"Mirto Quispe","Alio234",2018-07-09,8802.0,7897.0,"La última vez que lo ví fue por la plaza en la madrugada con una niña",false,1
+22,"Juan Vasquez","Alñoid881",2019-05-16,-59737.0,-45646.0,"Se fue por la escuela x en la tarde con un niño",false,1
+23,"Ruperto Turpaleon","Aloiy22",2018-04-10,16272.0,-19167.0,"Se fugó por la pista en la mañana solo",false,1
+24,"Ruperto Solis","Alñoid114",2021-06-24,-17716.0,42521.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con un niño",false,1
+25,"Ruperto Ramírez","Lacy974",2020-10-15,37155.0,-54180.0,"Se fugó por la plaza en la noche con una niña",false,1

@@ -1,0 +1,5 @@
+196,"Marco Zaenz","Anlop556",2021-11-23,22560.0,8851.0,"La última vez que lo ví fue por la vereda en la tarde solo",false,1
+197,"Ruperto Quispe","Alñoid999",2018-06-24,27663.0,-47784.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la madrugada con un niño",false,1
+198,"Pedro Turpaleon","Lacy296",2019-03-22,29857.0,-8737.0,"La última vez que lo ví fue por la villa en la mañana con otros perros",false,1
+199,"Ana Solis","Lacy618",2018-05-02,12765.0,-68493.0,"Se fue por la villa en la madrugada con una niña",false,1
+200,"Manuel Vasquez","Alpy545",2021-10-09,43992.0,-65221.0,"Se perdió por la villa en la madrugada con otros perros",false,1

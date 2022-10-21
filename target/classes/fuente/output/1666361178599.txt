@@ -1,0 +1,5 @@
+521,"Ana Ortiz","Anlop917",2021-07-13,-48713.0,-57210.0,"Se fue por la villa en la noche con otros perros",false,1
+522,"Manuel Zaenz","Alio85",2018-03-07,-3193.0,-61526.0,"Se fugó por la villa en la tarde con un niño",false,1
+523,"Manuel Quispe","Alñoid27",2019-12-03,41937.0,-21431.0,"Se marchó por la vereda en la tarde con una niña",false,1
+524,"Juan Turpaleon","Ajui360",2019-02-22,-67737.0,31949.0,"La última vez que lo ví fue por la playa en la tarde con otros perros",false,1
+525,"Mirto Quispe","Luna290",2021-02-23,30823.0,-67424.0,"Se marchó por el mercado de huacho en la tarde solo",false,1

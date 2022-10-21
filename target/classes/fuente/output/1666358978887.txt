@@ -1,0 +1,5 @@
+566,"Pedro Vasquez","Lacy515",2021-06-14,-68839.0,3879.0,"Se marchó por la plaza en la tarde con otros perros",false,1
+567,"Ana Zaenz","Anlop703",2021-12-20,-61820.0,-47645.0,"Se perdió por la pista en la madrugada con una niña",false,1
+568,"Juan Ramírez","Alio125",2021-12-03,-1867.0,38062.0,"Se fugó por la pista en la madrugada con otros perros",false,1
+569,"Ruperto Ramírez","Luna340",2019-05-12,-66286.0,-23026.0,"Se fugó por la villa en la mañana solo",false,1
+570,"Ruperto Ortiz","Luna167",2018-07-09,-8350.0,27447.0,"Se fue por la pista en la tarde con otros perros",false,1

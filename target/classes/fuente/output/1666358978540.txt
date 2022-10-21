@@ -1,0 +1,5 @@
+276,"Manuel Ramírez","Alñoid379",2021-01-25,-59895.0,-15541.0,"Se perdió por la pista en la madrugada solo",false,1
+277,"Juan Turpaleon","Alñoid813",2019-01-18,30761.0,38862.0,"Se perdió por el mercado de lima en la mañana solo",false,1
+278,"María Solis","Luna62",2018-12-02,-49032.0,5344.0,"Se fue por el mercado de huacho en la tarde con una niña",false,1
+279,"Marco Ramírez","Alñoid429",2018-02-03,39412.0,-16045.0,"La última vez que lo ví fue por el mercado de lima en la tarde con otros perros",false,1
+280,"Marco Ortiz","Alñoid527",2019-09-07,-54555.0,-60021.0,"Se fugó por la vereda en la tarde con otros perros",false,1

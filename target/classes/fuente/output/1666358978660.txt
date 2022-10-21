@@ -1,0 +1,5 @@
+376,"Juan Quispe","Alio427",2020-05-04,12853.0,-15209.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la tarde solo",false,1
+377,"Juan Solis","Alio142",2021-01-12,39260.0,43296.0,"Se perdió por la escuela x en la noche solo",false,1
+378,"Manuel Quispe","Alñoid467",2019-06-08,44123.0,-28014.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con un niño",false,1
+379,"Juan Claros","Alpy40",2020-12-19,7247.0,-11417.0,"Se fugó por la vereda en la tarde con otros perros",false,1
+380,"Marco Solis","Aloiy819",2021-02-08,17549.0,-37390.0,"La última vez que lo ví fue por la plaza en la noche con una niña",false,1

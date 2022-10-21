@@ -1,0 +1,5 @@
+706,"Pedro Turpaleon","Alñoid545",2021-01-05,6315.0,-33035.0,"Se fugó por la pista en la madrugada con otros perros",false,1
+707,"Mirto Turpaleon","Alio226",2019-04-06,10888.0,42236.0,"Se perdió por la plaza en la noche con un niño",false,1
+708,"Mirto Solis","Alpy644",2021-07-18,-35363.0,46343.0,"Se marchó por la villa en la noche solo",false,1
+709,"Ana Solis","Luna950",2018-06-12,-6768.0,-5319.0,"Se fue por la villa en la mañana con una niña",false,1
+710,"María Turpaleon","Lacy954",2021-03-15,-69529.0,-34796.0,"Se fugó por el mercado de lima en la tarde con otros perros",false,1

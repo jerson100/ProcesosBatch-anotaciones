@@ -1,0 +1,5 @@
+601,"Manuel Claros","Alñoid278",2019-12-10,2096.0,32786.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la noche solo",false,1
+602,"Mirto Ramírez","Aloiy20",2020-10-23,-67796.0,-33935.0,"Se marchó por la playa en la noche con otros perros",false,1
+603,"Juan Ramírez","Alñoid996",2018-09-04,40894.0,-36663.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la noche con otros perros",false,1
+604,"Marco Claros","Alio428",2018-05-22,-17190.0,-58179.0,"Se perdió por la escuela x en la noche solo",false,1
+605,"Mirto Solis","Alpy164",2019-02-12,-23766.0,-67447.0,"La última vez que lo ví fue por la plaza en la mañana con un niño",false,1

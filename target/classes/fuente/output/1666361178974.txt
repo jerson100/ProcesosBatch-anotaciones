@@ -1,0 +1,5 @@
+876,"Ruperto Zaenz","Luna431",2019-10-18,-62394.0,-20639.0,"Se fue por la villa en la madrugada con una niña",false,1
+877,"Manuel Quispe","Alñoid996",2019-10-22,47558.0,-23109.0,"La última vez que lo ví fue por el mercado de huacho en la noche con una niña",false,1
+878,"Mirto Zaenz","Apou576",2018-09-08,-10515.0,-4048.0,"Se perdió por la vereda en la madrugada con un niño",false,1
+879,"Ruperto Quispe","Lacy775",2018-05-20,-44527.0,11127.0,"Se marchó por la escuela x en la noche con una niña",false,1
+880,"Ruperto Solis","Alpy807",2020-09-09,43749.0,46688.0,"La última vez que lo ví fue por la pista en la madrugada solo",false,1

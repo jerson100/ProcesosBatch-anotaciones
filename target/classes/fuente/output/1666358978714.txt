@@ -1,0 +1,5 @@
+416,"Pedro Solis","Alpy860",2019-04-23,9680.0,-21776.0,"Se fugó por la vereda en la noche con un niño",false,1
+417,"Marco Ortiz","Apou630",2020-05-15,-7984.0,33269.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con otros perros",false,1
+418,"Manuel Ortiz","Alñoid54",2021-05-12,-66304.0,-41574.0,"Se fugó por la plaza en la tarde solo",false,1
+419,"María Turpaleon","Alñoid821",2021-05-20,-64986.0,-3323.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche solo",false,1
+420,"Juan Quispe","Apou829",2021-11-13,34547.0,18491.0,"Se fue por la vereda en la tarde con otros perros",false,1

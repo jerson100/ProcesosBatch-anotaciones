@@ -1,0 +1,5 @@
+636,"Ana Ramírez","Anlop444",2019-10-02,45655.0,-13350.0,"Se fue por la playa en la noche solo",false,1
+637,"Manuel Vasquez","Alñoid412",2020-07-25,44070.0,-61411.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la madrugada con una niña",false,1
+638,"Manuel Turpaleon","Alñoid372",2021-04-10,3185.0,-50278.0,"Se marchó por la pista en la mañana con una niña",false,1
+639,"María Quispe","Luna766",2020-08-08,12222.0,30500.0,"Se fue por el mercado de lima en la tarde con una niña",false,1
+640,"Marco Solis","Ajui623",2018-03-09,40070.0,-63716.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la tarde con un niño",false,1

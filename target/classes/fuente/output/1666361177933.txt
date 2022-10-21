@@ -1,0 +1,5 @@
+186,"Manuel Solis","Alpy555",2021-09-08,33302.0,27107.0,"Se perdió por el mercado de lima en la mañana con otros perros",false,1
+187,"Marco Ortiz","Alpy624",2020-05-07,-10397.0,-24576.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la noche con otros perros",false,1
+188,"Ana Vasquez","Luna450",2020-08-21,44854.0,47170.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la madrugada con otros perros",false,1
+189,"Pedro Vasquez","Alñoid281",2018-07-16,23368.0,23817.0,"Se marchó por la plaza en la noche solo",false,1
+190,"Juan Turpaleon","Luna538",2019-02-11,-7505.0,15335.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con un niño",false,1

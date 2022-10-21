@@ -1,0 +1,5 @@
+556,"Juan Ortiz","Apou780",2021-06-11,16157.0,34445.0,"Se fue por la villa en la noche con un niño",false,1
+557,"María Ortiz","Alio283",2021-11-19,26637.0,-45456.0,"Se fue por la plaza en la madrugada con un niño",false,1
+558,"Ana Ramírez","Ajui932",2018-10-10,-13431.0,-6159.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la tarde con una niña",false,1
+559,"María Quispe","Lacy558",2021-03-18,-44770.0,-27441.0,"Se perdió por la plaza en la madrugada con un niño",false,1
+560,"Mirto Ortiz","Lacy84",2018-03-02,-16073.0,45137.0,"Se marchó por el mercado de huacho en la madrugada con una niña",false,1

@@ -1,0 +1,5 @@
+156,"María Turpaleon","Ajui160",2020-02-24,-29922.0,9138.0,"Se fue por la villa en la madrugada solo",false,1
+157,"Manuel Claros","Luna286",2020-07-20,-29375.0,-6326.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la madrugada solo",false,1
+158,"Ana Claros","Luna606",2020-06-03,-18029.0,-14260.0,"Se marchó por la escuela x en la madrugada con un niño",false,1
+159,"Mirto Solis","Alio151",2019-09-23,-61632.0,-33323.0,"Se fugó por la vereda en la mañana con otros perros",false,1
+160,"María Claros","Alio216",2020-08-05,-6105.0,45609.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la mañana con otros perros",false,1

@@ -1,0 +1,5 @@
+931,"Juan Turpaleon","Anlop149",2019-12-10,48809.0,-32014.0,"Se perdió por la escuela x en la mañana con una niña",false,1
+932,"Ruperto Ortiz","Lacy18",2020-08-16,11203.0,17303.0,"Se perdió por la escuela x en la tarde con un niño",false,1
+933,"Juan Ramírez","Aloiy515",2019-10-20,-48378.0,-50453.0,"Se perdió por la pista en la tarde con un niño",false,1
+934,"María Turpaleon","Alio537",2020-06-05,-48947.0,40766.0,"Se perdió por la plaza en la tarde solo",false,1
+935,"Pedro Solis","Alpy553",2018-06-16,-24805.0,-58184.0,"La última vez que lo ví fue por la pista en la mañana con una niña",false,1

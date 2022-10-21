@@ -1,0 +1,5 @@
+256,"Ana Vasquez","Aloiy651",2018-05-01,27469.0,47666.0,"Se marchó por la escuela x en la noche con otros perros",false,1
+257,"Marco Ortiz","Luna916",2020-04-02,-403.0,19481.0,"La última vez que lo ví fue por la plaza en la mañana solo",false,1
+258,"Mirto Solis","Aloiy120",2021-05-24,42149.0,-41858.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche con un niño",false,1
+259,"Juan Vasquez","Alpy398",2021-01-01,-14599.0,24427.0,"Se perdió por la playa en la noche con otros perros",false,1
+260,"Manuel Claros","Anlop561",2021-07-21,-1297.0,-66785.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la madrugada solo",false,1

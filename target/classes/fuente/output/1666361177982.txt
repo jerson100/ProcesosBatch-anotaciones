@@ -1,0 +1,5 @@
+231,"Marco Zaenz","Anlop407",2018-10-05,-7332.0,47102.0,"Se fugó por la vereda en la mañana solo",false,1
+232,"Mirto Quispe","Alñoid745",2020-10-15,651.0,-61668.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la tarde con un niño",false,1
+233,"Ana Zaenz","Alio931",2020-03-25,-56716.0,43204.0,"Se marchó por la escuela x en la noche con una niña",false,1
+234,"Ana Ramírez","Luna241",2019-02-23,-39517.0,-6851.0,"Se perdió por la villa en la mañana con un niño",false,1
+235,"Mirto Claros","Alñoid302",2021-06-09,-69656.0,8944.0,"Se marchó por la vereda en la madrugada con un niño",false,1

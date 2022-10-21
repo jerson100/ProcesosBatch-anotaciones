@@ -1,0 +1,5 @@
+926,"Ruperto Zaenz","Alñoid427",2018-07-05,-44517.0,45314.0,"La última vez que lo ví fue por la playa en la tarde con un niño",false,1
+927,"Ruperto Quispe","Luna607",2019-09-24,-13097.0,-64548.0,"Se marchó por la plaza en la madrugada solo",false,1
+928,"Ana Claros","Alpy241",2019-10-18,3107.0,-60184.0,"Se fue por el mercado de lima en la mañana con una niña",false,1
+929,"Manuel Claros","Alñoid689",2020-10-06,-5852.0,-20394.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la mañana solo",false,1
+930,"Marco Turpaleon","Anlop451",2019-10-24,-34584.0,23236.0,"La última vez que lo ví fue por la plaza en la madrugada con un niño",false,1

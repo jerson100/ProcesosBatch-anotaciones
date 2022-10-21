@@ -1,0 +1,5 @@
+606,"Ruperto Ortiz","Alñoid940",2019-09-05,38450.0,33631.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con otros perros",false,1
+607,"Manuel Ramírez","Anlop354",2019-06-02,15172.0,40416.0,"Se fugó por la vereda en la noche con una niña",false,1
+608,"Marco Claros","Lacy657",2018-04-05,-22252.0,-1564.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la tarde con otros perros",false,1
+609,"María Zaenz","Lacy449",2018-06-15,-4911.0,-49436.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la tarde con una niña",false,1
+610,"Juan Claros","Ajui835",2018-06-15,-38967.0,-45823.0,"Se fue por la villa en la madrugada con una niña",false,1

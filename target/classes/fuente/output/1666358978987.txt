@@ -1,0 +1,5 @@
+671,"Pedro Claros","Lacy537",2021-11-22,47574.0,36402.0,"Se fugó por el mercado de huacho en la madrugada con otros perros",false,1
+672,"Juan Claros","Alpy279",2020-04-05,-49690.0,19053.0,"Se fue por la plaza en la madrugada con otros perros",false,1
+673,"Manuel Quispe","Anlop714",2021-08-01,47691.0,-30897.0,"Se perdió por la plaza en la noche con otros perros",false,1
+674,"Juan Vasquez","Aloiy370",2019-09-17,32843.0,19475.0,"Se fugó por la escuela x en la mañana con otros perros",false,1
+675,"María Ortiz","Lacy167",2019-04-11,45335.0,33644.0,"Se perdió por la playa en la madrugada con una niña",false,1

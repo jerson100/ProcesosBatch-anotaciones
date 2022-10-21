@@ -1,0 +1,5 @@
+356,"Mirto Ramírez","Aloiy923",2019-07-04,24846.0,-20677.0,"Se marchó por la vereda en la mañana solo",false,1
+357,"Marco Quispe","Alio860",2018-08-02,-14738.0,-38003.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la noche con una niña",false,1
+358,"Marco Vasquez","Alio40",2018-04-20,-4271.0,-33267.0,"Se fue por la vereda en la madrugada con un niño",false,1
+359,"Marco Vasquez","Anlop284",2021-11-11,17309.0,-45353.0,"Se perdió por la plaza en la mañana con un niño",false,1
+360,"Mirto Quispe","Anlop281",2019-01-02,-55591.0,-59876.0,"La última vez que lo ví fue por la vereda en la madrugada con una niña",false,1

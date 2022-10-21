@@ -1,0 +1,5 @@
+996,"Manuel Quispe","Alpy766",2018-02-08,36508.0,-49595.0,"Se marchó por la vereda en la noche con un niño",false,1
+997,"Manuel Ortiz","Apou658",2020-01-01,44091.0,46551.0,"Se fugó por la escuela x en la tarde con un niño",false,1
+998,"Mirto Zaenz","Alio357",2020-07-10,-3599.0,44420.0,"Se fugó por la escuela x en la noche solo",false,1
+999,"Marco Zaenz","Ajui630",2021-04-21,30153.0,28309.0,"Se marchó por el mercado de lima en la tarde solo",false,1
+1000,"María Claros","Lacy281",2020-07-12,29965.0,39243.0,"Se perdió por la villa en la tarde con una niña",false,1

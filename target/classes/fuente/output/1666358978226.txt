@@ -1,0 +1,5 @@
+36,"María Zaenz","Apou292",2020-02-04,40803.0,-60296.0,"La última vez que lo ví fue por la playa en la tarde con un niño",false,1
+37,"Juan Vasquez","Alñoid982",2018-08-22,-8222.0,12439.0,"Se perdió por la escuela x en la mañana solo",false,1
+38,"Marco Zaenz","Alpy470",2018-10-25,13030.0,-9722.0,"Se perdió por la playa en la noche con otros perros",false,1
+39,"Ruperto Ortiz","Aloiy830",2018-05-01,40159.0,32914.0,"Se fugó por la vereda en la mañana con una niña",false,1
+40,"Marco Vasquez","Anlop770",2018-02-04,11593.0,-36772.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana solo",false,1

@@ -1,0 +1,5 @@
+471,"Mirto Zaenz","Alñoid500",2019-01-09,-12996.0,38819.0,"La última vez que lo ví fue por el mercado de lima en la madrugada con otros perros",false,1
+472,"María Ortiz","Alñoid77",2018-12-05,-61902.0,17450.0,"Se marchó por la vereda en la tarde con otros perros",false,1
+473,"Marco Solis","Anlop417",2020-02-14,-41639.0,-59009.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la noche solo",false,1
+474,"Ana Turpaleon","Ajui80",2021-02-11,33116.0,24019.0,"Se marchó por la villa en la mañana con otros perros",false,1
+475,"Ruperto Quispe","Alpy270",2019-04-15,48251.0,44328.0,"Se perdió por la plaza en la noche con un niño",false,1

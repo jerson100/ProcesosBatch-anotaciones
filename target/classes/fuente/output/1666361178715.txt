@@ -1,0 +1,5 @@
+626,"Juan Vasquez","Ajui304",2020-09-13,38133.0,-60039.0,"Se fugó por la villa en la mañana con un niño",false,1
+627,"María Vasquez","Lacy251",2020-07-06,43325.0,-64998.0,"Se marchó por la playa en la mañana solo",false,1
+628,"Pedro Quispe","Ajui898",2021-12-25,-11849.0,-9793.0,"Se perdió por el mercado de huacho en la tarde con una niña",false,1
+629,"Ana Quispe","Luna322",2018-05-02,25699.0,26714.0,"Se marchó por el mercado de lima en la noche solo",false,1
+630,"Juan Vasquez","Alio169",2020-05-09,-33965.0,11323.0,"Se perdió por la villa en la noche con una niña",false,1

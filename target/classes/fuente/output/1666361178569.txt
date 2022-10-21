@@ -1,0 +1,5 @@
+496,"Mirto Vasquez","Apou591",2020-12-16,-58589.0,18486.0,"Se fue por la escuela x en la tarde con una niña",false,1
+497,"Juan Ortiz","Alñoid233",2018-01-19,-61640.0,29575.0,"La última vez que lo ví fue por la escuela x en la tarde solo",false,1
+498,"María Quispe","Lacy875",2019-07-25,7207.0,654.0,"Se fue por la escuela x en la mañana con un niño",false,1
+499,"Pedro Solis","Ajui392",2021-04-14,-24626.0,-37310.0,"La última vez que lo ví fue por la vereda en la tarde con una niña",false,1
+500,"Ruperto Vasquez","Ajui239",2018-11-22,39409.0,-14875.0,"Se perdió por la vereda en la madrugada con otros perros",false,1

@@ -1,0 +1,5 @@
+831,"Pedro Turpaleon","Aloiy657",2019-06-17,41182.0,-23524.0,"Se marchó por el mercado de lima en la tarde solo",false,1
+832,"Ruperto Ramírez","Ajui311",2018-11-12,24381.0,13536.0,"No se por donde se me perdió exactamente pero creo que fue por la playa en la tarde solo",false,1
+833,"Ana Zaenz","Aloiy735",2021-02-18,-29685.0,40622.0,"Se perdió por la playa en la madrugada con otros perros",false,1
+834,"Ana Vasquez","Aloiy716",2018-11-16,3206.0,14335.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la mañana solo",false,1
+835,"Ruperto Ramírez","Alñoid788",2019-08-07,-10938.0,35286.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con un niño",false,1

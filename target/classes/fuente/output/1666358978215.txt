@@ -1,0 +1,5 @@
+31,"Juan Claros","Alñoid617",2018-09-16,-61760.0,-47386.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la madrugada con una niña",false,1
+32,"María Claros","Lacy634",2018-01-21,-5518.0,24737.0,"Se marchó por la pista en la noche solo",false,1
+33,"Ruperto Quispe","Lacy624",2020-02-04,-45560.0,33351.0,"Se marchó por la playa en la mañana con un niño",false,1
+34,"Manuel Quispe","Anlop942",2020-11-01,-61881.0,17592.0,"La última vez que lo ví fue por la vereda en la mañana con un niño",false,1
+35,"Mirto Quispe","Alpy270",2020-11-18,9068.0,39122.0,"Se fugó por el mercado de huacho en la noche con otros perros",false,1

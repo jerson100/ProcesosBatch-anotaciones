@@ -1,0 +1,5 @@
+431,"Mirto Vasquez","Luna462",2019-02-16,-18490.0,-19892.0,"Se fugó por la escuela x en la noche con otros perros",false,1
+432,"Marco Vasquez","Apou497",2018-04-07,-11271.0,-25298.0,"Se marchó por la pista en la mañana solo",false,1
+433,"Pedro Zaenz","Alio372",2018-06-19,-41515.0,-22940.0,"Se fugó por la pista en la mañana con un niño",false,1
+434,"Ana Claros","Lacy672",2020-04-21,-27197.0,2067.0,"Se perdió por la vereda en la madrugada con una niña",false,1
+435,"Ruperto Quispe","Ajui832",2018-10-25,-20874.0,41731.0,"Se fugó por la playa en la mañana con una niña",false,1

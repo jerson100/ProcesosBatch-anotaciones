@@ -1,0 +1,5 @@
+891,"Marco Claros","Ajui397",2018-10-04,-12579.0,-17233.0,"Se fue por la playa en la noche con una niña",false,1
+892,"Juan Turpaleon","Lacy327",2018-08-18,-16844.0,15121.0,"La última vez que lo ví fue por la pista en la madrugada con una niña",false,1
+893,"Mirto Solis","Apou46",2021-04-12,-42009.0,39282.0,"Se fugó por la villa en la mañana con un niño",false,1
+894,"Marco Solis","Lacy139",2020-12-18,-34956.0,-23914.0,"Se perdió por la escuela x en la madrugada con otros perros",false,1
+895,"María Solis","Aloiy748",2021-10-07,40285.0,199.0,"La última vez que lo ví fue por el mercado de huacho en la noche con un niño",false,1

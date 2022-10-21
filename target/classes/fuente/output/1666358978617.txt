@@ -1,0 +1,5 @@
+341,"Marco Zaenz","Alñoid952",2021-07-05,987.0,25732.0,"Se fugó por la plaza en la tarde con una niña",false,1
+342,"Ruperto Vasquez","Apou846",2021-05-02,-48855.0,5830.0,"Se perdió por el mercado de lima en la tarde con un niño",false,1
+343,"Ana Ramírez","Ajui914",2020-08-17,-33463.0,10170.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con un niño",false,1
+344,"Manuel Turpaleon","Alñoid698",2020-03-17,46119.0,-62463.0,"Se fue por la pista en la madrugada con otros perros",false,1
+345,"Ana Solis","Alio614",2019-09-06,7286.0,28986.0,"Se marchó por la vereda en la madrugada solo",false,1

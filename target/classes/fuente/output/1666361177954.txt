@@ -1,0 +1,5 @@
+206,"Marco Claros","Alñoid403",2021-10-25,-7391.0,4458.0,"Se perdió por el mercado de huacho en la mañana solo",false,1
+207,"Juan Ramírez","Anlop847",2020-08-23,39318.0,-68945.0,"Se fugó por la playa en la noche con una niña",false,1
+208,"Ana Turpaleon","Alpy372",2021-01-22,-59441.0,-55646.0,"Se marchó por el mercado de lima en la madrugada con otros perros",false,1
+209,"Juan Vasquez","Alñoid1",2021-01-22,-23773.0,20880.0,"La última vez que lo ví fue por la villa en la tarde con una niña",false,1
+210,"Juan Vasquez","Alpy238",2021-04-11,-57019.0,-14222.0,"Se fugó por la plaza en la noche con otros perros",false,1

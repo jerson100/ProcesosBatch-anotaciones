@@ -1,0 +1,5 @@
+426,"Mirto Turpaleon","Luna848",2021-10-04,30745.0,-25798.0,"Se fugó por la playa en la madrugada solo",false,1
+427,"Marco Quispe","Lacy370",2021-06-14,45325.0,-58019.0,"Se marchó por el mercado de lima en la mañana solo",false,1
+428,"Marco Ortiz","Apou70",2021-05-06,-19280.0,-1392.0,"Se fue por el mercado de lima en la mañana con un niño",false,1
+429,"Juan Turpaleon","Alpy899",2021-01-14,-58517.0,-1319.0,"Se marchó por la escuela x en la tarde con otros perros",false,1
+430,"María Solis","Apou851",2018-05-25,-52562.0,42424.0,"La última vez que lo ví fue por la villa en la tarde con un niño",false,1

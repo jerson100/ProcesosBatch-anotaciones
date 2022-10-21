@@ -1,0 +1,5 @@
+361,"Manuel Ramírez","Alpy795",2020-12-11,18646.0,-17598.0,"La última vez que lo ví fue por la pista en la mañana solo",false,1
+362,"Pedro Solis","Anlop916",2020-03-01,-43806.0,-45677.0,"Se perdió por la villa en la tarde con otros perros",false,1
+363,"Juan Quispe","Luna740",2020-06-24,-60162.0,-35502.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la noche con un niño",false,1
+364,"Pedro Vasquez","Luna632",2020-02-07,-1795.0,23864.0,"Se marchó por la pista en la madrugada con un niño",false,1
+365,"María Ramírez","Alñoid779",2018-02-08,898.0,12596.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la madrugada con otros perros",false,1

@@ -1,0 +1,5 @@
+211,"Ana Zaenz","Alñoid489",2020-10-23,19525.0,39039.0,"Se perdió por la pista en la madrugada con otros perros",false,1
+212,"Manuel Solis","Alpy485",2021-03-16,44532.0,-1477.0,"Se perdió por la playa en la tarde con un niño",false,1
+213,"María Claros","Aloiy212",2018-11-06,-58534.0,-50644.0,"Se fugó por la escuela x en la mañana con un niño",false,1
+214,"Ana Ortiz","Alñoid895",2021-07-24,-59217.0,23735.0,"La última vez que lo ví fue por la playa en la tarde con una niña",false,1
+215,"María Turpaleon","Lacy174",2018-07-20,-23434.0,5825.0,"Se fugó por la vereda en la tarde con una niña",false,1

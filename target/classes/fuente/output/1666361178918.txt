@@ -1,0 +1,5 @@
+816,"Ruperto Turpaleon","Luna213",2018-08-21,-47347.0,-253.0,"Se perdió por la escuela x en la mañana con otros perros",false,1
+817,"María Claros","Alñoid222",2020-06-07,2242.0,37997.0,"La última vez que lo ví fue por la plaza en la tarde solo",false,1
+818,"Mirto Ortiz","Ajui73",2020-05-04,-1750.0,-4089.0,"Se marchó por el mercado de lima en la madrugada con una niña",false,1
+819,"Ana Ramírez","Apou721",2021-07-07,27153.0,10037.0,"Se fugó por la escuela x en la madrugada con una niña",false,1
+820,"Ruperto Vasquez","Aloiy825",2020-06-06,28361.0,-53628.0,"Se perdió por la pista en la mañana solo",false,1

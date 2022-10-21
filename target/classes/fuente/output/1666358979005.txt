@@ -1,0 +1,5 @@
+686,"Juan Zaenz","Apou705",2021-07-17,-54167.0,16701.0,"Se marchó por la escuela x en la madrugada solo",false,1
+687,"Ruperto Solis","Alñoid92",2021-11-04,-39822.0,-24564.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la madrugada solo",false,1
+688,"Marco Zaenz","Lacy579",2021-01-13,44073.0,-52067.0,"Se perdió por el mercado de huacho en la madrugada solo",false,1
+689,"Juan Turpaleon","Apou441",2019-08-19,-36332.0,-23743.0,"Se perdió por la pista en la noche con un niño",false,1
+690,"Ruperto Solis","Luna361",2021-05-07,-2095.0,39996.0,"La última vez que lo ví fue por la pista en la noche con una niña",false,1

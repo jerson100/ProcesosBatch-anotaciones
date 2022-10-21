@@ -1,0 +1,5 @@
+766,"Mirto Ortiz","Ajui444",2020-03-15,-27806.0,-5493.0,"Se perdió por el mercado de huacho en la noche con otros perros",false,1
+767,"Marco Vasquez","Luna551",2019-07-08,-6139.0,9125.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana con una niña",false,1
+768,"Manuel Zaenz","Lacy129",2020-06-20,-47528.0,-24941.0,"La última vez que lo ví fue por la villa en la mañana con un niño",false,1
+769,"María Vasquez","Apou568",2021-11-07,49903.0,-42428.0,"Se fugó por la pista en la madrugada con un niño",false,1
+770,"Ana Vasquez","Anlop980",2018-04-11,-695.0,24022.0,"Se fugó por la playa en la tarde con otros perros",false,1

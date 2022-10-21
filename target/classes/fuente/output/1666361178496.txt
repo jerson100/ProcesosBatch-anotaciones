@@ -1,0 +1,5 @@
+441,"Ana Claros","Luna530",2021-01-12,-55590.0,-18181.0,"Se fue por la pista en la mañana con un niño",false,1
+442,"Manuel Zaenz","Alpy843",2019-03-14,3874.0,-66262.0,"La última vez que lo ví fue por el mercado de huacho en la tarde con un niño",false,1
+443,"Mirto Ortiz","Ajui753",2019-07-17,1422.0,-2457.0,"Se perdió por la plaza en la noche solo",false,1
+444,"Marco Quispe","Lacy674",2019-10-13,-12366.0,-59249.0,"Se marchó por la plaza en la tarde con un niño",false,1
+445,"Ana Vasquez","Apou280",2021-03-23,7365.0,12305.0,"Se marchó por el mercado de huacho en la noche con una niña",false,1

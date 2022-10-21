@@ -1,0 +1,5 @@
+41,"Marco Ortiz","Ajui76",2018-10-11,-6663.0,-50985.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche solo",false,1
+42,"Marco Turpaleon","Luna293",2018-03-15,-52149.0,13569.0,"Se perdió por la playa en la noche con otros perros",false,1
+43,"Ana Quispe","Lacy747",2018-01-06,31246.0,18369.0,"Se fue por la vereda en la madrugada con una niña",false,1
+44,"María Vasquez","Aloiy604",2018-05-17,43223.0,-1851.0,"La última vez que lo ví fue por la plaza en la madrugada con otros perros",false,1
+45,"Juan Quispe","Alñoid919",2021-01-06,-65016.0,22997.0,"Se perdió por el mercado de lima en la noche con una niña",false,1

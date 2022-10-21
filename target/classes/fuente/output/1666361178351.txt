@@ -1,0 +1,5 @@
+331,"Ana Turpaleon","Anlop708",2021-03-25,-37974.0,18624.0,"Se marchó por el mercado de huacho en la madrugada con una niña",false,1
+332,"Manuel Ortiz","Alio269",2020-02-15,-46821.0,-34396.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la noche con una niña",false,1
+333,"Manuel Vasquez","Ajui196",2019-03-16,-35216.0,-17871.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la tarde con una niña",false,1
+334,"Mirto Vasquez","Apou656",2019-05-11,-14081.0,31389.0,"La última vez que lo ví fue por la playa en la mañana con una niña",false,1
+335,"Ana Ramírez","Apou21",2019-04-11,-60294.0,28505.0,"Se perdió por el mercado de huacho en la mañana solo",false,1

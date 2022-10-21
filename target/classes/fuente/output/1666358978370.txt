@@ -1,0 +1,5 @@
+131,"Mirto Claros","Ajui811",2018-04-20,35970.0,-61572.0,"Se marchó por la villa en la madrugada con un niño",false,1
+132,"Manuel Ortiz","Alpy998",2020-09-22,3599.0,45779.0,"Se perdió por la villa en la noche con una niña",false,1
+133,"Pedro Quispe","Alio911",2020-05-08,-28694.0,-45359.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la mañana con una niña",false,1
+134,"Ruperto Solis","Alpy487",2018-09-12,19614.0,11632.0,"Se fugó por la villa en la madrugada con un niño",false,1
+135,"Juan Ramírez","Alio920",2020-01-14,-38532.0,-55921.0,"Se fue por la villa en la noche con otros perros",false,1

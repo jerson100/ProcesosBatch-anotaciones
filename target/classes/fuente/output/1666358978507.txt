@@ -1,0 +1,5 @@
+251,"Ruperto Turpaleon","Apou620",2019-06-18,-26660.0,33123.0,"Se perdió por el mercado de lima en la noche solo",false,1
+252,"Mirto Ortiz","Anlop326",2018-12-06,-42047.0,-60911.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la mañana con otros perros",false,1
+253,"Ana Vasquez","Alio593",2018-07-06,-400.0,-12701.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la madrugada con un niño",false,1
+254,"Marco Ramírez","Anlop940",2020-04-10,36033.0,36789.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la tarde solo",false,1
+255,"Ana Ramírez","Anlop542",2018-05-05,44393.0,-25901.0,"Se fue por la plaza en la mañana solo",false,1

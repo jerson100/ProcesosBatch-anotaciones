@@ -1,0 +1,5 @@
+871,"Marco Vasquez","Ajui905",2021-05-21,358.0,7743.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la tarde con otros perros",false,1
+872,"Marco Vasquez","Lacy12",2020-05-03,-41663.0,-34152.0,"La última vez que lo ví fue por la playa en la tarde con un niño",false,1
+873,"Juan Ramírez","Luna888",2020-10-20,45894.0,-60787.0,"Se fue por el mercado de lima en la mañana con otros perros",false,1
+874,"Ruperto Vasquez","Lacy372",2018-02-25,-30918.0,-17393.0,"Se fugó por el mercado de lima en la madrugada solo",false,1
+875,"Marco Solis","Lacy371",2019-04-22,-896.0,47037.0,"Se fue por la playa en la madrugada solo",false,1

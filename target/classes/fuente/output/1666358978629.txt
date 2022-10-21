@@ -1,0 +1,5 @@
+351,"Juan Quispe","Anlop530",2021-02-25,-60637.0,-25693.0,"Se perdió por el mercado de lima en la madrugada con otros perros",false,1
+352,"Pedro Ortiz","Alñoid327",2018-03-15,-17621.0,-368.0,"Se perdió por la plaza en la mañana con otros perros",false,1
+353,"Manuel Ramírez","Alpy168",2019-07-03,38449.0,-52339.0,"La última vez que lo ví fue por la villa en la tarde solo",false,1
+354,"María Claros","Apou908",2021-03-05,-55297.0,-24172.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la noche solo",false,1
+355,"Manuel Ortiz","Ajui604",2019-11-20,34672.0,-33172.0,"La última vez que lo ví fue por el mercado de lima en la tarde solo",false,1

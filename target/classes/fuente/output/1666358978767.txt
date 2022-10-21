@@ -1,0 +1,5 @@
+456,"Ruperto Claros","Ajui506",2021-08-19,-36458.0,-87.0,"La última vez que lo ví fue por el mercado de huacho en la tarde con una niña",false,1
+457,"Juan Turpaleon","Alpy49",2018-12-07,-3270.0,-18647.0,"Se fugó por la playa en la tarde solo",false,1
+458,"Mirto Turpaleon","Luna959",2020-08-08,-41176.0,-33263.0,"Se perdió por la villa en la mañana con otros perros",false,1
+459,"Manuel Claros","Alñoid446",2018-08-07,47493.0,-69284.0,"Se fue por el mercado de lima en la tarde solo",false,1
+460,"Mirto Claros","Luna806",2018-08-24,23002.0,-2203.0,"Se fue por la pista en la tarde solo",false,1

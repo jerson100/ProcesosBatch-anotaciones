@@ -1,0 +1,5 @@
+216,"Ana Claros","Alñoid655",2020-01-20,21570.0,36130.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la mañana solo",false,1
+217,"Manuel Turpaleon","Alpy782",2021-11-15,3482.0,-47518.0,"La última vez que lo ví fue por la plaza en la madrugada con otros perros",false,1
+218,"Pedro Ortiz","Alñoid209",2019-03-11,25474.0,-54375.0,"La última vez que lo ví fue por la plaza en la noche con un niño",false,1
+219,"Manuel Zaenz","Luna953",2018-12-11,-23470.0,-25524.0,"Se fugó por el mercado de huacho en la mañana solo",false,1
+220,"Pedro Zaenz","Lacy631",2021-08-19,39769.0,14170.0,"Se perdió por la escuela x en la mañana con un niño",false,1

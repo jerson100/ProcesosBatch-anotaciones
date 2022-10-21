@@ -1,0 +1,5 @@
+366,"María Claros","Alñoid836",2019-12-08,-26884.0,4031.0,"Se fugó por el mercado de lima en la tarde con una niña",false,1
+367,"Ana Solis","Alñoid528",2018-05-02,-60607.0,49521.0,"Se fue por el mercado de huacho en la madrugada con un niño",false,1
+368,"Pedro Ramírez","Luna153",2021-10-25,-26804.0,-37387.0,"Se marchó por el mercado de lima en la tarde con un niño",false,1
+369,"Juan Ortiz","Anlop424",2021-01-13,-39417.0,-15753.0,"Se fue por el mercado de lima en la madrugada con un niño",false,1
+370,"Manuel Zaenz","Luna520",2021-12-01,-57020.0,-36478.0,"La última vez que lo ví fue por la vereda en la madrugada con un niño",false,1

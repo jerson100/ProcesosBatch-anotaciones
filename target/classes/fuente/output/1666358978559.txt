@@ -1,0 +1,5 @@
+291,"Pedro Solis","Luna486",2019-09-12,31553.0,-69321.0,"Se fugó por el mercado de huacho en la mañana con un niño",false,1
+292,"María Vasquez","Ajui677",2021-12-11,1236.0,-50345.0,"Se fugó por el mercado de lima en la tarde con una niña",false,1
+293,"María Solis","Anlop265",2020-11-25,-58364.0,-56257.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la madrugada con un niño",false,1
+294,"Juan Quispe","Alpy485",2018-10-17,22897.0,-15626.0,"Se perdió por el mercado de huacho en la tarde con un niño",false,1
+295,"Mirto Ortiz","Lacy81",2018-05-10,-60021.0,-52952.0,"Se perdió por la villa en la noche solo",false,1

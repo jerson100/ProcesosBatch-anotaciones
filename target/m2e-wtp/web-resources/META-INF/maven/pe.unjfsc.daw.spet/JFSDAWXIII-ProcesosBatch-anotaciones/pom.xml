@@ -1,0 +1,202 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>pe.unjfsc.daw.spet</groupId>
+  <artifactId>JFSDAWXIII-ProcesosBatch-anotaciones</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>JFSDAWXIII-ProcesosBatch-anotaciones Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <properties> 
+
+  <spring.version>5.3.23</spring.version> 
+
+  <spring-batch.version>4.3.7</spring-batch.version> 
+
+  <jstl.version>1.2</jstl.version> 
+
+  <servletapi.version>3.1.0</servletapi.version> 
+
+  <junit.version>4.12</junit.version> 
+
+  <slf4j.version>1.7.5</slf4j.version> 
+
+  <bdpostgresql.version>9.3-1104-jdbc41</bdpostgresql.version> 
+
+  <bdh2.version>1.4.197</bdh2.version>
+   
+  <hsqldb.version>2.5.1</hsqldb.version>
+
+</properties> 
+<dependencies> 
+
+  <!-- Spring Context --> 
+
+  <dependency> 
+
+     <groupId>org.springframework</groupId> 
+
+     <artifactId>spring-context</artifactId> 
+
+     <version>${spring.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <!-- Spring MVC --> 
+
+  <dependency> 
+
+     <groupId>org.springframework</groupId> 
+
+     <artifactId>spring-webmvc</artifactId> 
+
+     <version>${spring.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <!-- Spring JDBC --> 
+
+  <dependency> 
+
+     <groupId>org.springframework</groupId> 
+
+     <artifactId>spring-jdbc</artifactId> 
+
+     <version>${spring.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <!-- Spring ORM --> 
+
+  <dependency> 
+
+     <groupId>org.springframework</groupId> 
+
+     <artifactId>spring-orm</artifactId> 
+
+     <version>${spring.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <!-- Spring Batch --> 
+
+  <dependency> 
+
+     <groupId>org.springframework.batch</groupId> 
+
+     <artifactId>spring-batch-core</artifactId> 
+
+     <version>${spring-batch.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <!-- Data base --> 
+
+  <dependency> 
+
+     <groupId>org.postgresql</groupId> 
+
+     <artifactId>postgresql</artifactId> 
+
+     <version>${bdpostgresql.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <dependency> 
+
+     <groupId>com.h2database</groupId> 
+
+     <artifactId>h2</artifactId> 
+
+     <version>${bdh2.version}</version> 
+
+     <scope>runtime</scope> 
+
+  </dependency> 
+
+ 
+
+  <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api --> 
+
+  <!-- Java solo para compilar, su contenedor tiene que tener --> 
+
+  <dependency> 
+
+     <groupId>javax.servlet</groupId> 
+
+     <artifactId>javax.servlet-api</artifactId> 
+
+     <version>${servletapi.version}</version> 
+
+     <scope>provided</scope> 
+
+  </dependency> 
+
+ 
+
+  <!-- JSTL --> 
+
+  <dependency> 
+
+     <groupId>javax.servlet</groupId> 
+
+     <artifactId>jstl</artifactId> 
+
+     <version>${jstl.version}</version> 
+
+  </dependency> 
+
+ <!-- https://mvnrepository.com/artifact/org.hsqldb/hsqldb -->
+<dependency>
+    <groupId>org.hsqldb</groupId>
+    <artifactId>hsqldb</artifactId>
+    <version>${hsqldb.version}</version>
+    <scope>runtime</scope>
+</dependency>
+
+
+  <!-- JUNIT --> 
+
+  <!-- https://mvnrepository.com/artifact/junit/junit --> 
+
+  <!-- Pruebas Unitarias --> 
+
+  <dependency> 
+
+     <groupId>junit</groupId> 
+
+     <artifactId>junit</artifactId> 
+
+     <version>${junit.version}</version> 
+
+  </dependency> 
+
+ 
+
+  <dependency> 
+
+     <groupId>org.slf4j</groupId> 
+
+     <artifactId>slf4j-simple</artifactId> 
+
+     <version>${slf4j.version}</version> 
+
+  </dependency> 
+
+</dependencies> 
+  <build>
+    <finalName>JFSDAWXIII-ProcesosBatch-anotaciones</finalName>
+  </build>
+</project>

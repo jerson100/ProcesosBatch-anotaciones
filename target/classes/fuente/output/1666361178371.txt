@@ -1,0 +1,5 @@
+346,"Manuel Turpaleon","Alpy42",2020-09-25,6682.0,-44037.0,"Se perdió por la pista en la noche con un niño",false,1
+347,"Marco Turpaleon","Alñoid534",2019-11-24,-54633.0,-39291.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la madrugada con otros perros",false,1
+348,"Manuel Solis","Luna132",2020-05-20,25106.0,26481.0,"Se fue por la playa en la noche con un niño",false,1
+349,"Marco Zaenz","Lacy764",2019-01-08,40134.0,-47463.0,"La última vez que lo ví fue por el mercado de lima en la noche con una niña",false,1
+350,"Manuel Turpaleon","Luna638",2018-07-20,39014.0,31485.0,"La última vez que lo ví fue por el mercado de lima en la tarde con otros perros",false,1

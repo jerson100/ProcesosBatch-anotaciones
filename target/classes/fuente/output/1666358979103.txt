@@ -1,0 +1,5 @@
+796,"Ana Ortiz","Alñoid637",2018-01-21,-16537.0,14621.0,"La última vez que lo ví fue por el mercado de huacho en la noche solo",false,1
+797,"Marco Ramírez","Aloiy419",2019-12-23,45253.0,42443.0,"Se fue por el mercado de huacho en la noche con un niño",false,1
+798,"Manuel Ortiz","Alpy417",2020-03-16,-8599.0,-64347.0,"Se perdió por la villa en la madrugada con otros perros",false,1
+799,"Ana Turpaleon","Alñoid184",2019-04-14,-31833.0,21601.0,"Se perdió por la playa en la mañana solo",false,1
+800,"Juan Claros","Alpy296",2020-06-15,-36906.0,-31793.0,"Se fugó por la escuela x en la noche con otros perros",false,1

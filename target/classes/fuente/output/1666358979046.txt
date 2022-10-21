@@ -1,0 +1,5 @@
+731,"Ruperto Claros","Aloiy416",2018-02-10,-33060.0,-11642.0,"Se marchó por el mercado de lima en la noche con un niño",false,1
+732,"Mirto Ortiz","Alpy207",2020-02-23,46062.0,14826.0,"Se perdió por la escuela x en la noche con un niño",false,1
+733,"Juan Quispe","Apou429",2019-05-01,-29624.0,23330.0,"Se fue por la escuela x en la madrugada con otros perros",false,1
+734,"Marco Ramírez","Alpy226",2018-08-16,-44342.0,-37169.0,"Se fue por la plaza en la noche solo",false,1
+735,"Mirto Ortiz","Alpy79",2020-01-16,-36605.0,19549.0,"Se marchó por la vereda en la noche con otros perros",false,1
