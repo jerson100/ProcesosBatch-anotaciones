@@ -1,5 +1,0 @@
-221,"Manuel Solis","Alpy837",2021-06-17,-41969.0,22879.0,"Se perdió por la escuela x en la noche solo",false,1
-222,"María Ramírez","Alpy779",2021-08-02,-53741.0,-18254.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la mañana con una niña",false,1
-223,"Pedro Zaenz","Luna511",2018-04-23,26652.0,4204.0,"Se fue por la playa en la mañana con otros perros",false,1
-224,"Marco Claros","Aloiy658",2018-10-01,-4803.0,-64257.0,"Se fugó por el mercado de lima en la tarde con un niño",false,1
-225,"Manuel Quispe","Lacy718",2018-11-25,-14128.0,-31634.0,"Se marchó por la escuela x en la madrugada solo",false,1

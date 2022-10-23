@@ -1,5 +1,0 @@
-511,"Pedro Quispe","Aloiy546",2019-05-03,-15133.0,-65881.0,"Se fugó por el mercado de lima en la madrugada con una niña",false,1
-512,"Juan Ramírez","Lacy84",2019-02-20,24879.0,43938.0,"Se fue por la villa en la tarde solo",false,1
-513,"Ruperto Ramírez","Lacy899",2018-08-20,-60213.0,-4758.0,"Se fue por la escuela x en la mañana solo",false,1
-514,"Manuel Vasquez","Aloiy598",2021-06-04,-18968.0,-4372.0,"La última vez que lo ví fue por la vereda en la mañana con una niña",false,1
-515,"Pedro Claros","Apou778",2021-11-13,-44236.0,32278.0,"Se perdió por la vereda en la tarde con una niña",false,1

@@ -1,5 +1,0 @@
-451,"Ana Ortiz","Aloiy889",2021-06-03,39045.0,15320.0,"Se fue por la vereda en la mañana con un niño",false,1
-452,"Ana Zaenz","Alpy295",2018-09-03,-45297.0,9153.0,"Se fue por la pista en la tarde con otros perros",false,1
-453,"Mirto Zaenz","Luna49",2021-12-08,5586.0,-15527.0,"Se perdió por el mercado de lima en la mañana solo",false,1
-454,"Marco Zaenz","Apou997",2019-06-11,-42753.0,-49221.0,"Se perdió por la playa en la noche con otros perros",false,1
-455,"María Vasquez","Anlop127",2018-05-23,-64699.0,37526.0,"Se fugó por la villa en la mañana con una niña",false,1

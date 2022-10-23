@@ -1,5 +1,0 @@
-386,"María Zaenz","Alpy903",2018-07-14,-738.0,-27002.0,"No se por donde se me perdió exactamente pero creo que fue por la playa en la madrugada con otros perros",false,1
-387,"Mirto Zaenz","Luna44",2020-06-10,31938.0,-34667.0,"Se perdió por el mercado de huacho en la noche solo",false,1
-388,"Ana Ortiz","Lacy604",2018-08-08,16240.0,20136.0,"Se marchó por la escuela x en la mañana solo",false,1
-389,"Ana Zaenz","Luna150",2018-11-19,-45737.0,24221.0,"La última vez que lo ví fue por la pista en la madrugada solo",false,1
-390,"Ruperto Ortiz","Alpy395",2020-03-09,-52086.0,-52159.0,"Se fue por la plaza en la mañana con otros perros",false,1

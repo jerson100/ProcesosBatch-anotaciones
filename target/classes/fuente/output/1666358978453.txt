@@ -1,5 +1,0 @@
-201,"Manuel Turpaleon","Alpy3",2020-07-06,-8326.0,-24174.0,"La última vez que lo ví fue por el mercado de lima en la mañana con un niño",false,1
-202,"Ruperto Ramírez","Ajui959",2019-02-14,14279.0,-41946.0,"Se perdió por la vereda en la madrugada con un niño",false,1
-203,"María Turpaleon","Alio598",2020-03-07,25879.0,16420.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la madrugada solo",false,1
-204,"Mirto Vasquez","Alpy840",2021-07-18,9872.0,-69700.0,"Se fugó por el mercado de huacho en la noche con un niño",false,1
-205,"Marco Claros","Alpy839",2019-07-16,-39198.0,-52845.0,"Se marchó por la villa en la noche con un niño",false,1

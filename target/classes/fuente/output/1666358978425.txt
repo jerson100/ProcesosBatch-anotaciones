@@ -1,5 +1,0 @@
-176,"Marco Turpaleon","Alpy521",2020-06-01,17305.0,-36679.0,"Se fugó por la vereda en la mañana con un niño",false,1
-177,"Marco Solis","Ajui186",2018-06-10,-26294.0,13996.0,"Se fugó por la villa en la tarde con otros perros",false,1
-178,"Manuel Quispe","Alñoid586",2018-08-13,8490.0,-53715.0,"La última vez que lo ví fue por la plaza en la noche con una niña",false,1
-179,"Mirto Claros","Alpy391",2018-07-04,-56481.0,-40982.0,"Se fugó por la villa en la tarde solo",false,1
-180,"Juan Quispe","Alio57",2020-12-23,-17155.0,-43278.0,"Se perdió por la pista en la noche con una niña",false,1

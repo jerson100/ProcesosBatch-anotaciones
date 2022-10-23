@@ -1,5 +1,0 @@
-261,"Mirto Claros","Alpy939",2019-02-14,-61253.0,11993.0,"Se marchó por la pista en la madrugada con un niño",false,1
-262,"María Claros","Aloiy80",2020-11-25,-45653.0,-51058.0,"La última vez que lo ví fue por la pista en la noche con otros perros",false,1
-263,"Marco Solis","Luna695",2018-04-09,-51559.0,48045.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la noche con otros perros",false,1
-264,"Ruperto Ortiz","Anlop631",2018-07-10,637.0,-63669.0,"Se fugó por la playa en la noche solo",false,1
-265,"Juan Vasquez","Alio523",2018-04-16,27680.0,-13041.0,"La última vez que lo ví fue por el mercado de lima en la noche con un niño",false,1

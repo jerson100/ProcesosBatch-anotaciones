@@ -1,5 +1,0 @@
-681,"María Vasquez","Aloiy520",2018-02-12,33869.0,27314.0,"Se fugó por el mercado de lima en la tarde con otros perros",false,1
-682,"Pedro Zaenz","Luna145",2018-10-25,4044.0,-61912.0,"Se perdió por la villa en la tarde con otros perros",false,1
-683,"Ruperto Ortiz","Alpy191",2019-06-21,-48111.0,9917.0,"La última vez que lo ví fue por la vereda en la noche con un niño",false,1
-684,"Ana Turpaleon","Luna546",2018-03-16,17113.0,-44954.0,"Se fugó por la villa en la tarde con una niña",false,1
-685,"Ana Quispe","Alio403",2020-09-05,-56684.0,9516.0,"Se perdió por el mercado de huacho en la tarde solo",false,1

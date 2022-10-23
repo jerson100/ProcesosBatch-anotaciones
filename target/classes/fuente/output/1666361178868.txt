@@ -1,5 +1,0 @@
-771,"Ana Vasquez","Alio286",2021-02-17,33169.0,-50629.0,"Se fugó por la escuela x en la noche con otros perros",false,1
-772,"Pedro Zaenz","Luna651",2018-05-19,28021.0,9017.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la madrugada con una niña",false,1
-773,"Manuel Quispe","Lacy961",2021-08-05,-26032.0,29650.0,"Se fue por el mercado de lima en la mañana con un niño",false,1
-774,"Pedro Turpaleon","Alpy715",2021-11-20,5568.0,-17565.0,"Se fugó por la plaza en la noche solo",false,1
-775,"María Quispe","Alio515",2020-08-16,-11695.0,32785.0,"Se fugó por el mercado de huacho en la tarde con una niña",false,1

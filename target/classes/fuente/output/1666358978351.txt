@@ -1,5 +1,0 @@
-116,"Ana Zaenz","Anlop494",2021-10-11,19905.0,-49659.0,"La última vez que lo ví fue por la plaza en la tarde con una niña",false,1
-117,"Pedro Claros","Alpy316",2020-01-14,21223.0,-23085.0,"La última vez que lo ví fue por el mercado de lima en la mañana con otros perros",false,1
-118,"María Solis","Lacy784",2020-08-08,-10720.0,-39001.0,"La última vez que lo ví fue por la playa en la noche con otros perros",false,1
-119,"Mirto Zaenz","Alio310",2019-02-24,-52594.0,9538.0,"Se fugó por la playa en la noche con un niño",false,1
-120,"Juan Quispe","Lacy11",2020-09-05,23082.0,-61670.0,"Se perdió por la plaza en la tarde solo",false,1

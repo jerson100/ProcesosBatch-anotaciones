@@ -1,5 +1,0 @@
-646,"Manuel Ortiz","Apou592",2021-11-16,-58612.0,822.0,"Se perdió por el mercado de huacho en la mañana con otros perros",false,1
-647,"Pedro Turpaleon","Lacy841",2019-05-22,-56672.0,-62691.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la noche con una niña",false,1
-648,"Juan Claros","Alñoid839",2019-01-15,-57247.0,-48826.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde con una niña",false,1
-649,"Mirto Ramírez","Anlop601",2021-08-08,12072.0,-10338.0,"Se marchó por la playa en la mañana con otros perros",false,1
-650,"Manuel Zaenz","Aloiy668",2021-02-14,-43861.0,-50758.0,"Se fugó por la plaza en la noche con un niño",false,1

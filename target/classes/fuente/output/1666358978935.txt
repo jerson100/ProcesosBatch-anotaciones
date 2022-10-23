@@ -1,5 +1,0 @@
-616,"Juan Ortiz","Alio858",2019-07-05,17401.0,-30198.0,"Se fue por la pista en la tarde con una niña",false,1
-617,"Ruperto Zaenz","Alpy816",2021-07-14,32984.0,23931.0,"La última vez que lo ví fue por la villa en la tarde con un niño",false,1
-618,"Pedro Quispe","Alio759",2019-08-07,-19713.0,2135.0,"Se perdió por la vereda en la noche con una niña",false,1
-619,"Juan Zaenz","Alñoid124",2021-09-01,-9967.0,-9262.0,"La última vez que lo ví fue por el mercado de lima en la mañana solo",false,1
-620,"Ruperto Zaenz","Anlop856",2020-05-18,-11080.0,11582.0,"Se perdió por el mercado de huacho en la tarde con un niño",false,1

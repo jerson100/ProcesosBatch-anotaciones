@@ -1,5 +1,0 @@
-181,"María Ortiz","Apou523",2020-07-07,21339.0,-5761.0,"Se fue por la pista en la madrugada con un niño",false,1
-182,"Marco Ramírez","Apou294",2021-01-22,17821.0,-19820.0,"Se perdió por la villa en la mañana con una niña",false,1
-183,"Marco Vasquez","Alpy575",2018-01-12,-14757.0,-24271.0,"La última vez que lo ví fue por la vereda en la tarde solo",false,1
-184,"Marco Solis","Anlop626",2018-06-19,39688.0,-32397.0,"La última vez que lo ví fue por la villa en la madrugada solo",false,1
-185,"Pedro Vasquez","Ajui570",2021-12-25,39709.0,-28447.0,"Se fue por la plaza en la noche solo",false,1

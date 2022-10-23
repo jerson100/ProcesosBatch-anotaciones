@@ -1,5 +1,0 @@
-736,"Manuel Zaenz","Alpy852",2019-03-25,10147.0,21478.0,"Se marchó por la pista en la mañana con otros perros",false,1
-737,"Manuel Ramírez","Alpy520",2021-03-13,21899.0,-23139.0,"Se marchó por la escuela x en la madrugada con un niño",false,1
-738,"Marco Quispe","Ajui983",2018-03-14,-52867.0,-6166.0,"Se marchó por el mercado de huacho en la madrugada con otros perros",false,1
-739,"Marco Solis","Aloiy547",2018-05-11,19800.0,13268.0,"La última vez que lo ví fue por la pista en la madrugada con otros perros",false,1
-740,"Marco Zaenz","Alpy667",2018-08-21,-16696.0,-56586.0,"Se marchó por la plaza en la madrugada con un niño",false,1

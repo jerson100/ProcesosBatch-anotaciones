@@ -1,5 +1,0 @@
-896,"Pedro Ramírez","Luna927",2020-12-02,5022.0,-53517.0,"La última vez que lo ví fue por la playa en la noche con otros perros",false,1
-897,"Marco Quispe","Ajui826",2018-08-22,30379.0,-35456.0,"La última vez que lo ví fue por la pista en la mañana con un niño",false,1
-898,"Mirto Ramírez","Anlop194",2021-10-17,38666.0,-29858.0,"La última vez que lo ví fue por la playa en la tarde solo",false,1
-899,"María Solis","Alñoid773",2019-11-09,24264.0,-17638.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la noche con otros perros",false,1
-900,"Pedro Zaenz","Ajui468",2021-03-17,46692.0,-37138.0,"Se perdió por la plaza en la mañana solo",false,1

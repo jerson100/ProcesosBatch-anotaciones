@@ -1,5 +1,0 @@
-551,"Marco Turpaleon","Aloiy656",2021-03-24,-57194.0,24709.0,"Se fugó por la villa en la tarde con una niña",false,1
-552,"Mirto Ortiz","Alñoid289",2018-02-22,33852.0,33403.0,"Se perdió por la escuela x en la mañana con otros perros",false,1
-553,"Ana Solis","Luna121",2021-02-12,11887.0,-8534.0,"Se fugó por la playa en la madrugada con otros perros",false,1
-554,"Pedro Ortiz","Luna154",2018-08-18,37723.0,-39566.0,"Se fugó por la plaza en la noche solo",false,1
-555,"Manuel Turpaleon","Anlop384",2019-04-06,-23373.0,42217.0,"Se perdió por el mercado de huacho en la mañana solo",false,1

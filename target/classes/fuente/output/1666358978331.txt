@@ -1,5 +1,0 @@
-101,"Marco Zaenz","Apou595",2020-07-03,44800.0,-7251.0,"La última vez que lo ví fue por el mercado de lima en la madrugada con un niño",false,1
-102,"Manuel Quispe","Lacy14",2020-06-10,-64841.0,-15952.0,"Se perdió por la escuela x en la mañana solo",false,1
-103,"Ana Turpaleon","Alpy181",2020-04-06,4940.0,-45744.0,"La última vez que lo ví fue por la villa en la noche con un niño",false,1
-104,"Manuel Turpaleon","Anlop737",2019-08-13,-33175.0,-52467.0,"Se perdió por la escuela x en la mañana con un niño",false,1
-105,"Pedro Vasquez","Aloiy862",2019-05-01,-10513.0,1618.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con un niño",false,1

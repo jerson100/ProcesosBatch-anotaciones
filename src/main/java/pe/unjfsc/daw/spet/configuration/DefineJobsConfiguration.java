@@ -59,7 +59,7 @@ public class DefineJobsConfiguration {
 	@Bean
 	public FlatFileItemReader<CELostPetDTOEntrada> getLostPetReader() {
 		FlatFileItemReader<CELostPetDTOEntrada> reader = new FlatFileItemReader<CELostPetDTOEntrada>();
-		reader.setResource(new ClassPathResource("fuente/input/mascotasperdidas10.csv"));
+		reader.setResource(new ClassPathResource("fuente/input/mascotasperdidas10000.csv"));
 		reader.setLineMapper(getLostPetLineMapper());
 		return reader;
 	}
@@ -76,7 +76,7 @@ public class DefineJobsConfiguration {
 	@Bean
 	public Step stepOne() {
 		return stepBuilderFactory.get("stepOne")
-				.<CELostPetDTOEntrada,CELostPetDTOSalida>chunk(5)
+				.<CELostPetDTOEntrada,CELostPetDTOSalida>chunk(5000)
 				.reader(getLostPetReader())
 				.processor(getCLLostPetProcessor())
 				.writer(getCDLostPetWriter())

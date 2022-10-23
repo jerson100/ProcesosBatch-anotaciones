@@ -1,5 +1,0 @@
-241,"Mirto Ramírez","Luna372",2018-09-18,21505.0,25919.0,"Se perdió por la vereda en la madrugada con otros perros",false,1
-242,"María Solis","Alio334",2021-07-24,-43050.0,-37007.0,"La última vez que lo ví fue por la pista en la noche con otros perros",false,1
-243,"Mirto Vasquez","Alpy467",2020-08-10,-13849.0,12297.0,"La última vez que lo ví fue por la escuela x en la madrugada solo",false,1
-244,"Juan Solis","Apou959",2021-01-12,-28742.0,-47944.0,"Se fugó por la playa en la madrugada solo",false,1
-245,"Mirto Claros","Alñoid698",2021-06-03,-29508.0,11464.0,"La última vez que lo ví fue por la plaza en la tarde con un niño",false,1

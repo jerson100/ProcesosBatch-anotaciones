@@ -1,5 +1,0 @@
-121,"Pedro Ramírez","Aloiy387",2019-03-24,-42169.0,15251.0,"Se fugó por la vereda en la mañana con otros perros",false,1
-122,"Marco Ramírez","Anlop737",2019-02-17,46387.0,44629.0,"Se fugó por la pista en la tarde solo",false,1
-123,"María Turpaleon","Apou757",2018-02-12,-24041.0,26387.0,"Se fue por la vereda en la noche solo",false,1
-124,"María Solis","Apou268",2018-10-06,37562.0,40994.0,"Se fugó por la vereda en la tarde con un niño",false,1
-125,"Marco Ramírez","Alio994",2018-09-10,45202.0,-21035.0,"Se marchó por la playa en la tarde con un niño",false,1

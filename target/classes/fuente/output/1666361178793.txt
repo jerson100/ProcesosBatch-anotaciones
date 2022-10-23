@@ -1,5 +1,0 @@
-701,"Mirto Quispe","Aloiy471",2018-10-03,-40429.0,46867.0,"Se fugó por la pista en la noche con un niño",false,1
-702,"Ruperto Zaenz","Luna187",2018-02-24,34728.0,46418.0,"Se fugó por el mercado de huacho en la mañana con una niña",false,1
-703,"Juan Quispe","Alpy31",2020-12-23,-13931.0,-22324.0,"La última vez que lo ví fue por la playa en la noche solo",false,1
-704,"María Claros","Anlop858",2018-09-07,-7878.0,29827.0,"Se marchó por la plaza en la mañana solo",false,1
-705,"Ruperto Zaenz","Luna557",2021-02-18,42234.0,-43285.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la mañana con otros perros",false,1

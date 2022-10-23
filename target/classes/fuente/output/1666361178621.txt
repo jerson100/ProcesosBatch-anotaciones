@@ -1,5 +1,0 @@
-541,"María Solis","Anlop981",2019-07-19,1087.0,35091.0,"Se perdió por el mercado de lima en la madrugada con otros perros",false,1
-542,"Manuel Turpaleon","Apou897",2021-06-06,-63049.0,-47509.0,"Se marchó por la plaza en la noche solo",false,1
-543,"Juan Zaenz","Anlop782",2020-06-13,34201.0,-29444.0,"Se fue por la escuela x en la tarde con un niño",false,1
-544,"Marco Claros","Luna233",2021-07-13,-17587.0,-6319.0,"Se fugó por la plaza en la noche con otros perros",false,1
-545,"Mirto Vasquez","Anlop935",2019-04-14,-60774.0,18615.0,"Se fue por la plaza en la madrugada con otros perros",false,1

@@ -1,5 +1,0 @@
-976,"Ana Claros","Alio372",2020-08-21,20156.0,34301.0,"Se perdió por la playa en la madrugada con otros perros",false,1
-977,"Juan Vasquez","Alñoid146",2019-11-23,-65645.0,-64053.0,"Se fue por la playa en la madrugada solo",false,1
-978,"Juan Turpaleon","Aloiy1000",2018-10-19,8510.0,-19924.0,"Se perdió por la plaza en la noche solo",false,1
-979,"Mirto Vasquez","Ajui18",2020-09-09,-30116.0,10305.0,"Se perdió por la pista en la noche con una niña",false,1
-980,"María Solis","Luna406",2018-11-15,31507.0,32175.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la noche con un niño",false,1

@@ -1,5 +1,0 @@
-236,"Juan Zaenz","Anlop872",2021-05-17,-18115.0,-8586.0,"Se perdió por el mercado de lima en la mañana solo",false,1
-237,"Juan Quispe","Apou948",2021-05-12,-43756.0,-39177.0,"Se fue por la pista en la mañana solo",false,1
-238,"Mirto Quispe","Ajui590",2018-01-21,42423.0,-24021.0,"Se fugó por la vereda en la noche con una niña",false,1
-239,"María Zaenz","Luna860",2019-07-15,32723.0,-44061.0,"Se marchó por la pista en la madrugada con otros perros",false,1
-240,"Pedro Solis","Anlop239",2021-07-21,-33523.0,43753.0,"Se fugó por el mercado de lima en la mañana con un niño",false,1

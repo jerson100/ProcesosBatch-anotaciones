@@ -1,5 +1,0 @@
-751,"Manuel Turpaleon","Lacy611",2019-08-05,34692.0,-40078.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la mañana con un niño",false,1
-752,"Pedro Claros","Lacy560",2021-01-21,-61801.0,28867.0,"Se marchó por la playa en la noche solo",false,1
-753,"Ana Solis","Luna331",2018-07-18,41231.0,-62507.0,"Se marchó por la playa en la noche con otros perros",false,1
-754,"Ana Ortiz","Alpy446",2020-06-24,46258.0,36198.0,"Se marchó por la playa en la madrugada con una niña",false,1
-755,"Pedro Zaenz","Ajui858",2021-04-10,-41574.0,28398.0,"Se fue por la escuela x en la tarde solo",false,1

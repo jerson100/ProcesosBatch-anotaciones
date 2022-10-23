@@ -1,5 +1,0 @@
-6,"Ruperto Ortiz","Luna39",2021-08-09,20935.0,44470.0,"Se fue por el mercado de huacho en la madrugada solo",false,1
-7,"Pedro Turpaleon","Anlop198",2021-11-17,-47075.0,-19786.0,"Se fue por la vereda en la mañana con un niño",false,1
-8,"Manuel Quispe","Luna814",2020-03-14,40630.0,-52728.0,"La última vez que lo ví fue por la vereda en la tarde solo",false,1
-9,"Ana Turpaleon","Alio97",2019-08-07,-21108.0,-15883.0,"Se perdió por el mercado de lima en la noche con un niño",false,1
-10,"Mirto Ramírez","Ajui100",2019-08-24,19913.0,5810.0,"Se perdió por el mercado de lima en la mañana con otros perros",false,1

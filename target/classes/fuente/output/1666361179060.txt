@@ -1,5 +1,0 @@
-971,"Ana Zaenz","Alio652",2021-03-09,44696.0,-65456.0,"La última vez que lo ví fue por la villa en la madrugada con una niña",false,1
-972,"Pedro Claros","Alio32",2021-06-13,29707.0,-65903.0,"Se marchó por la villa en la madrugada con otros perros",false,1
-973,"Marco Vasquez","Ajui521",2018-01-19,-61737.0,-18767.0,"La última vez que lo ví fue por la vereda en la mañana con otros perros",false,1
-974,"Marco Solis","Apou910",2018-04-14,-6917.0,-14438.0,"Se fue por la escuela x en la mañana con otros perros",false,1
-975,"Manuel Ortiz","Alio354",2019-02-17,-44874.0,-22821.0,"La última vez que lo ví fue por la vereda en la tarde solo",false,1

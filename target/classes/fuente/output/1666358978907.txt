@@ -1,5 +1,0 @@
-586,"Marco Turpaleon","Apou213",2021-10-07,47619.0,-59586.0,"La última vez que lo ví fue por la villa en la noche con una niña",false,1
-587,"Ruperto Zaenz","Alpy78",2020-11-17,36688.0,-23686.0,"Se fugó por la plaza en la madrugada con un niño",false,1
-588,"María Claros","Apou920",2018-02-20,-51699.0,-5980.0,"Se marchó por el mercado de huacho en la mañana solo",false,1
-589,"Marco Vasquez","Alpy452",2019-08-25,-38032.0,-53632.0,"Se fue por la escuela x en la noche con un niño",false,1
-590,"Marco Vasquez","Lacy755",2020-04-11,18036.0,48792.0,"La última vez que lo ví fue por el mercado de lima en la madrugada con un niño",false,1

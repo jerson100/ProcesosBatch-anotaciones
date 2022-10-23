@@ -1,5 +1,0 @@
-26,"Ana Vasquez","Lacy486",2018-06-14,3540.0,-50746.0,"Se fugó por el mercado de lima en la tarde con un niño",false,1
-27,"Mirto Vasquez","Alpy855",2020-04-02,-2595.0,44545.0,"Se fue por la vereda en la tarde con un niño",false,1
-28,"Marco Claros","Alñoid214",2020-07-11,-59433.0,35465.0,"La última vez que lo ví fue por la villa en la mañana con otros perros",false,1
-29,"Ruperto Claros","Ajui548",2020-10-21,23643.0,-4094.0,"La última vez que lo ví fue por la escuela x en la noche solo",false,1
-30,"Mirto Quispe","Alio515",2020-07-03,-37567.0,-58347.0,"La última vez que lo ví fue por el mercado de lima en la mañana con una niña",false,1

@@ -1,5 +1,0 @@
-461,"Manuel Ramírez","Aloiy983",2021-08-08,-41558.0,-36642.0,"Se fue por la plaza en la noche con otros perros",false,1
-462,"Juan Zaenz","Ajui694",2019-03-03,26962.0,36269.0,"Se fugó por la plaza en la tarde solo",false,1
-463,"María Vasquez","Apou658",2018-07-11,44212.0,26820.0,"Se fugó por el mercado de huacho en la madrugada solo",false,1
-464,"Ruperto Solis","Alpy561",2021-01-14,46349.0,-39400.0,"Se fue por la villa en la noche con un niño",false,1
-465,"María Vasquez","Anlop761",2018-10-12,-66933.0,-8272.0,"Se perdió por la vereda en la noche con un niño",false,1

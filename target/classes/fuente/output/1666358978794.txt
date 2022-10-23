@@ -1,5 +1,0 @@
-476,"Mirto Claros","Alpy567",2020-11-05,-13383.0,26711.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con otros perros",false,1
-477,"Mirto Vasquez","Luna523",2021-07-23,-2605.0,13524.0,"Se perdió por el mercado de lima en la mañana solo",false,1
-478,"Mirto Ramírez","Alñoid960",2020-01-21,-17304.0,-53115.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con un niño",false,1
-479,"María Turpaleon","Anlop120",2020-05-18,-2537.0,17751.0,"La última vez que lo ví fue por la pista en la mañana con otros perros",false,1
-480,"Mirto Solis","Alpy764",2018-01-17,-48703.0,46643.0,"Se marchó por la villa en la madrugada con otros perros",false,1

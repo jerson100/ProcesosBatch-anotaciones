@@ -1,5 +1,0 @@
-966,"Ruperto Zaenz","Aloiy194",2020-05-21,-10411.0,-3616.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la tarde con una niña",false,1
-967,"Mirto Claros","Alñoid365",2021-02-19,-16123.0,-20040.0,"Se marchó por la pista en la noche solo",false,1
-968,"Marco Ortiz","Luna453",2018-08-22,-26949.0,-9220.0,"Se perdió por la escuela x en la noche con otros perros",false,1
-969,"Ana Solis","Alpy391",2019-03-10,-15327.0,-52748.0,"Se fue por la playa en la mañana con una niña",false,1
-970,"Mirto Quispe","Ajui493",2020-11-10,-41382.0,-69492.0,"Se fue por la vereda en la mañana con otros perros",false,1

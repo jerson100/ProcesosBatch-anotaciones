@@ -1,5 +1,0 @@
-561,"Mirto Ramírez","Lacy770",2020-01-11,14624.0,-17390.0,"Se perdió por el mercado de lima en la noche solo",false,1
-562,"Juan Zaenz","Aloiy522",2019-12-10,-11746.0,-33172.0,"La última vez que lo ví fue por la escuela x en la noche con una niña",false,1
-563,"María Turpaleon","Lacy87",2018-12-13,25266.0,27958.0,"Se perdió por la pista en la tarde con una niña",false,1
-564,"Pedro Turpaleon","Apou655",2018-02-09,-67760.0,25303.0,"Se fugó por el mercado de huacho en la noche con un niño",false,1
-565,"Manuel Solis","Alñoid800",2019-03-05,-56199.0,-62697.0,"Se fugó por la playa en la tarde con un niño",false,1

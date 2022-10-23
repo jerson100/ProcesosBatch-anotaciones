@@ -1,5 +1,0 @@
-841,"Ruperto Turpaleon","Ajui451",2018-04-21,11761.0,-41374.0,"La última vez que lo ví fue por el mercado de lima en la mañana con un niño",false,1
-842,"Pedro Claros","Alpy223",2019-08-08,-62145.0,-60776.0,"La última vez que lo ví fue por la playa en la madrugada solo",false,1
-843,"Mirto Quispe","Ajui307",2020-12-10,48555.0,-69431.0,"Se fugó por la pista en la madrugada con un niño",false,1
-844,"Manuel Ramírez","Alpy625",2021-09-06,-64478.0,-7607.0,"Se perdió por la pista en la mañana con una niña",false,1
-845,"María Turpaleon","Alpy793",2018-02-03,20924.0,-60202.0,"Se perdió por el mercado de lima en la mañana solo",false,1

@@ -1,5 +1,0 @@
-81,"María Claros","Aloiy167",2020-04-21,-45761.0,-69682.0,"Se fugó por la pista en la madrugada solo",false,1
-82,"Mirto Quispe","Ajui987",2018-09-22,47705.0,-53730.0,"Se fugó por el mercado de lima en la tarde solo",false,1
-83,"Ruperto Zaenz","Ajui936",2018-04-23,-67907.0,-48224.0,"Se fue por la villa en la noche con otros perros",false,1
-84,"Pedro Ortiz","Alpy998",2018-04-22,14498.0,40604.0,"Se fue por la escuela x en la madrugada solo",false,1
-85,"Ana Vasquez","Alpy119",2021-03-23,9162.0,-7255.0,"Se fue por la vereda en la mañana con otros perros",false,1

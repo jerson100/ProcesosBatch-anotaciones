@@ -1,5 +1,0 @@
-526,"Ruperto Solis","Ajui616",2021-10-09,9490.0,42593.0,"Se fugó por la playa en la tarde con una niña",false,1
-527,"Ana Claros","Alio659",2020-06-16,-9611.0,26646.0,"La última vez que lo ví fue por la pista en la noche con una niña",false,1
-528,"María Solis","Apou133",2019-09-23,-56994.0,877.0,"Se fugó por la escuela x en la noche con una niña",false,1
-529,"María Ortiz","Anlop219",2019-01-24,46061.0,-62586.0,"Se fue por la escuela x en la tarde con una niña",false,1
-530,"María Claros","Apou577",2020-12-03,-58327.0,13368.0,"Se fue por el mercado de huacho en la noche con un niño",false,1

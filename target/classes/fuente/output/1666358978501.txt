@@ -1,5 +1,0 @@
-246,"Pedro Claros","Alpy772",2020-02-01,-69965.0,45896.0,"Se fue por la escuela x en la noche con un niño",false,1
-247,"Marco Claros","Apou15",2021-12-17,-35972.0,-5732.0,"La última vez que lo ví fue por la vereda en la mañana con una niña",false,1
-248,"María Claros","Alio606",2019-05-12,31922.0,-56718.0,"Se marchó por la vereda en la madrugada con un niño",false,1
-249,"Marco Turpaleon","Alio143",2019-01-25,-37750.0,10582.0,"Se fugó por la pista en la madrugada con otros perros",false,1
-250,"Juan Turpaleon","Lacy988",2019-09-19,17156.0,31173.0,"Se fugó por la plaza en la madrugada solo",false,1

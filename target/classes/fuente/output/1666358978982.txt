@@ -1,5 +1,0 @@
-666,"Pedro Turpaleon","Alñoid184",2020-10-03,-37808.0,-12237.0,"Se fugó por la escuela x en la tarde solo",false,1
-667,"Marco Claros","Ajui553",2021-03-18,-19078.0,3158.0,"Se marchó por la plaza en la tarde con una niña",false,1
-668,"Pedro Quispe","Alñoid723",2019-06-20,33645.0,-11291.0,"Se perdió por la villa en la noche solo",false,1
-669,"Pedro Zaenz","Alpy289",2019-08-20,-33032.0,45657.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la madrugada con una niña",false,1
-670,"Pedro Vasquez","Alpy475",2020-01-03,807.0,32799.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la noche con otros perros",false,1

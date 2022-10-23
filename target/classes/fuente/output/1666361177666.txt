@@ -1,5 +1,0 @@
-16,"Manuel Ramírez","Alñoid32",2021-02-08,19416.0,-2860.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la noche con un niño",false,1
-17,"Marco Zaenz","Apou133",2020-05-12,23904.0,-59367.0,"Se marchó por la vereda en la mañana con un niño",false,1
-18,"Marco Ortiz","Alpy116",2020-01-21,39689.0,-19465.0,"Se perdió por la pista en la noche con un niño",false,1
-19,"Manuel Quispe","Alñoid836",2019-08-20,48551.0,-55591.0,"Se perdió por la plaza en la madrugada con un niño",false,1
-20,"Juan Claros","Alio782",2018-03-10,-67733.0,1585.0,"Se marchó por el mercado de huacho en la noche solo",false,1

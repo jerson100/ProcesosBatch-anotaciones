@@ -1,5 +1,0 @@
-901,"María Solis","Lacy781",2021-06-17,-19483.0,13332.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la madrugada con otros perros",false,1
-902,"Ana Ramírez","Apou41",2019-06-07,17128.0,702.0,"Se marchó por la plaza en la noche solo",false,1
-903,"Ruperto Quispe","Alñoid270",2018-10-05,-55249.0,18253.0,"Se fue por la escuela x en la mañana con un niño",false,1
-904,"Ruperto Turpaleon","Lacy173",2018-02-19,-60242.0,-20861.0,"Se fue por la pista en la noche con una niña",false,1
-905,"María Turpaleon","Alio881",2018-03-11,-10445.0,-59642.0,"Se fue por la vereda en la madrugada con una niña",false,1

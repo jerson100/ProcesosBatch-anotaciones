@@ -1,5 +1,0 @@
-836,"Ana Claros","Apou567",2021-11-14,39189.0,-57318.0,"Se perdió por la plaza en la mañana solo",false,1
-837,"Mirto Zaenz","Alio239",2018-03-16,-31857.0,-63323.0,"Se marchó por la plaza en la mañana con otros perros",false,1
-838,"Marco Ortiz","Aloiy214",2020-10-03,21951.0,5503.0,"No se por donde se me perdió exactamente pero creo que fue por la playa en la noche solo",false,1
-839,"Pedro Ramírez","Alpy774",2019-08-07,-8285.0,49145.0,"Se fugó por la pista en la madrugada con una niña",false,1
-840,"Ana Ortiz","Alio134",2021-02-13,37038.0,-3798.0,"La última vez que lo ví fue por la villa en la mañana con otros perros",false,1

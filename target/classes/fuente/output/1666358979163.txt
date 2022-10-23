@@ -1,5 +1,0 @@
-861,"Ruperto Ortiz","Alpy762",2019-07-23,-59152.0,-13449.0,"Se perdió por la plaza en la madrugada con un niño",false,1
-862,"Pedro Claros","Lacy922",2019-02-22,-68050.0,-28971.0,"Se fugó por la villa en la madrugada con otros perros",false,1
-863,"Pedro Quispe","Lacy916",2018-08-13,-30286.0,3764.0,"La última vez que lo ví fue por la escuela x en la tarde con un niño",false,1
-864,"Ana Vasquez","Lacy352",2018-06-20,-10473.0,47038.0,"Se fue por la vereda en la madrugada solo",false,1
-865,"Pedro Ortiz","Aloiy874",2020-11-20,-50374.0,11087.0,"Se marchó por la escuela x en la tarde con un niño",false,1

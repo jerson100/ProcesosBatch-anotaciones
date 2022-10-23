@@ -1,5 +1,0 @@
-716,"Pedro Quispe","Alio453",2019-09-08,-43091.0,42470.0,"Se fue por la vereda en la tarde solo",false,1
-717,"Marco Vasquez","Apou924",2021-11-12,7862.0,18678.0,"Se perdió por la pista en la madrugada con otros perros",false,1
-718,"Marco Turpaleon","Anlop908",2021-02-02,-5316.0,-10925.0,"La última vez que lo ví fue por la villa en la mañana solo",false,1
-719,"Pedro Quispe","Aloiy523",2020-01-05,24560.0,19002.0,"La última vez que lo ví fue por la playa en la noche solo",false,1
-720,"María Ortiz","Luna44",2020-05-04,5324.0,29371.0,"Se marchó por la villa en la noche con una niña",false,1

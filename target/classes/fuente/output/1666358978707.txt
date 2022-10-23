@@ -1,5 +1,0 @@
-411,"Juan Turpaleon","Alpy128",2018-04-19,-50900.0,46860.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con otros perros",false,1
-412,"María Ortiz","Lacy706",2018-03-21,-47461.0,-57891.0,"Se fue por la villa en la noche solo",false,1
-413,"María Ramírez","Ajui526",2020-04-06,5233.0,18547.0,"Se perdió por la villa en la madrugada con otros perros",false,1
-414,"Juan Solis","Ajui931",2019-09-23,21330.0,-64095.0,"Se marchó por el mercado de lima en la noche con una niña",false,1
-415,"Mirto Vasquez","Alpy310",2018-09-08,-46196.0,-53865.0,"Se perdió por la escuela x en la noche con otros perros",false,1

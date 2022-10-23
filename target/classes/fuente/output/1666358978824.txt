@@ -1,5 +1,0 @@
-506,"Ana Zaenz","Apou805",2019-10-13,-48656.0,-55416.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con otros perros",false,1
-507,"Mirto Zaenz","Luna984",2021-12-02,-48803.0,15060.0,"Se fugó por la vereda en la tarde solo",false,1
-508,"Ruperto Ortiz","Ajui18",2018-01-12,28207.0,-44778.0,"Se fugó por el mercado de huacho en la mañana con un niño",false,1
-509,"María Ortiz","Anlop772",2020-08-11,35692.0,38396.0,"Se fugó por la escuela x en la tarde solo",false,1
-510,"María Quispe","Alio676",2019-05-25,14579.0,82.0,"Se fue por la vereda en la tarde con un niño",false,1

@@ -1,5 +1,0 @@
-436,"Manuel Vasquez","Anlop37",2020-02-22,-5523.0,-52209.0,"Se marchó por la vereda en la tarde con otros perros",false,1
-437,"Marco Solis","Ajui840",2018-11-08,-62197.0,-55170.0,"Se fue por la playa en la noche solo",false,1
-438,"Ruperto Solis","Luna838",2018-11-04,12940.0,14721.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la noche solo",false,1
-439,"Pedro Vasquez","Luna340",2020-01-03,15456.0,-40405.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con otros perros",false,1
-440,"Mirto Claros","Aloiy227",2018-05-01,37760.0,12539.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la mañana con una niña",false,1

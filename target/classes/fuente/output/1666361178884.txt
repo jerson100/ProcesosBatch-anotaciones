@@ -1,5 +1,0 @@
-786,"Manuel Turpaleon","Alio344",2019-06-19,-12170.0,-66414.0,"La última vez que lo ví fue por el mercado de huacho en la noche solo",false,1
-787,"Ruperto Ramírez","Anlop679",2019-02-12,9797.0,-56827.0,"Se marchó por la vereda en la mañana con otros perros",false,1
-788,"Ana Zaenz","Aloiy814",2018-01-15,-69031.0,-42016.0,"Se perdió por la pista en la mañana solo",false,1
-789,"Pedro Zaenz","Ajui688",2018-02-02,48290.0,-60499.0,"Se marchó por el mercado de lima en la tarde con un niño",false,1
-790,"María Solis","Alio584",2018-08-19,-48312.0,20219.0,"Se marchó por la playa en la tarde con una niña",false,1

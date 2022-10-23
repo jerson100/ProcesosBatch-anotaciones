@@ -1,5 +1,0 @@
-941,"Pedro Ortiz","Luna300",2019-08-24,35465.0,39829.0,"Se marchó por el mercado de huacho en la mañana solo",false,1
-942,"Marco Ortiz","Apou795",2019-12-23,44906.0,-16052.0,"Se perdió por la escuela x en la tarde con una niña",false,1
-943,"María Turpaleon","Ajui600",2021-05-01,19499.0,24992.0,"Se fugó por la villa en la madrugada solo",false,1
-944,"Ruperto Zaenz","Alñoid503",2018-03-14,-19225.0,-62960.0,"Se perdió por el mercado de lima en la madrugada con un niño",false,1
-945,"Manuel Ramírez","Alpy177",2020-06-24,-1979.0,-31438.0,"Se fue por la vereda en la noche con un niño",false,1

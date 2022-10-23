@@ -1,5 +1,0 @@
-916,"Marco Turpaleon","Lacy790",2021-02-24,-52211.0,6890.0,"Se fue por la pista en la tarde con otros perros",false,1
-917,"María Ramírez","Ajui578",2020-06-11,33875.0,-43133.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la mañana con un niño",false,1
-918,"Pedro Solis","Lacy211",2020-07-22,-68073.0,25882.0,"Se perdió por la escuela x en la noche con una niña",false,1
-919,"María Claros","Aloiy932",2020-01-14,-17132.0,831.0,"Se fugó por la vereda en la noche con otros perros",false,1
-920,"Ruperto Claros","Alpy234",2018-11-18,38030.0,-51494.0,"La última vez que lo ví fue por la villa en la madrugada con otros perros",false,1

@@ -1,5 +1,0 @@
-806,"Manuel Solis","Alpy526",2019-11-11,32620.0,25292.0,"No se por donde se me perdió exactamente pero creo que fue por la villa en la noche con un niño",false,1
-807,"Manuel Quispe","Luna976",2020-02-17,-44858.0,-22008.0,"Se marchó por la playa en la madrugada con otros perros",false,1
-808,"Manuel Ramírez","Alñoid447",2020-09-25,-66601.0,24346.0,"Se fue por la plaza en la tarde solo",false,1
-809,"Ruperto Vasquez","Alpy773",2020-01-12,8914.0,-53871.0,"Se perdió por el mercado de huacho en la madrugada con un niño",false,1
-810,"Mirto Ortiz","Aloiy980",2020-07-06,32250.0,-62269.0,"Se perdió por la playa en la tarde con una niña",false,1

@@ -1,5 +1,0 @@
-986,"Ana Vasquez","Luna213",2019-12-04,42062.0,-30909.0,"Se fugó por la playa en la madrugada solo",false,1
-987,"Mirto Turpaleon","Alñoid498",2020-03-11,33467.0,22015.0,"Se fugó por la vereda en la noche con una niña",false,1
-988,"Mirto Claros","Apou489",2021-08-25,12584.0,-53151.0,"La última vez que lo ví fue por el mercado de lima en la tarde solo",false,1
-989,"Ana Ortiz","Alñoid297",2020-06-12,-64017.0,-10095.0,"Se marchó por la plaza en la noche con una niña",false,1
-990,"Mirto Zaenz","Ajui583",2020-04-06,13195.0,20197.0,"Se marchó por la villa en la noche con una niña",false,1

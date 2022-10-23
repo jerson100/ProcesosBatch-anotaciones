@@ -1,5 +1,0 @@
-301,"María Ramírez","Alio916",2020-06-09,14685.0,-61345.0,"No se por donde se me perdió exactamente pero creo que fue por la playa en la mañana con un niño",false,1
-302,"Ana Ramírez","Lacy821",2019-09-08,32462.0,31184.0,"Se fugó por la playa en la tarde solo",false,1
-303,"María Claros","Alñoid394",2021-05-01,-35318.0,12911.0,"La última vez que lo ví fue por el mercado de huacho en la mañana con un niño",false,1
-304,"Juan Ramírez","Ajui865",2020-04-17,42607.0,39780.0,"La última vez que lo ví fue por la pista en la tarde con un niño",false,1
-305,"María Turpaleon","Apou638",2020-12-17,-10316.0,-39641.0,"La última vez que lo ví fue por la pista en la noche con una niña",false,1

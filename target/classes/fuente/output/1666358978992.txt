@@ -1,5 +1,0 @@
-676,"Ana Ramírez","Apou272",2019-10-05,-3321.0,-56205.0,"Se marchó por el mercado de huacho en la tarde solo",false,1
-677,"Manuel Ramírez","Alio305",2020-08-02,-60769.0,-40335.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la tarde solo",false,1
-678,"Mirto Turpaleon","Aloiy563",2018-05-14,-9848.0,-15406.0,"La última vez que lo ví fue por la vereda en la noche solo",false,1
-679,"Mirto Solis","Luna17",2019-04-11,12267.0,-25650.0,"Se marchó por el mercado de huacho en la noche con una niña",false,1
-680,"Ana Quispe","Anlop847",2020-10-19,-39656.0,1106.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la madrugada con una niña",false,1

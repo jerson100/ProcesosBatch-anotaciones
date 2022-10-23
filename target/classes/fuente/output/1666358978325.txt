@@ -1,5 +1,0 @@
-96,"Pedro Claros","Alio225",2021-08-24,26569.0,-61880.0,"Se perdió por la vereda en la mañana con una niña",false,1
-97,"Mirto Solis","Lacy71",2018-05-24,-51283.0,-8383.0,"La última vez que lo ví fue por la plaza en la noche con otros perros",false,1
-98,"Marco Zaenz","Lacy526",2020-08-20,14926.0,-2293.0,"Se perdió por el mercado de huacho en la noche con otros perros",false,1
-99,"Marco Ramírez","Apou549",2019-08-14,-53934.0,-6005.0,"La última vez que lo ví fue por el mercado de huacho en la tarde con una niña",false,1
-100,"Pedro Ortiz","Anlop739",2019-06-19,-8902.0,15519.0,"Se perdió por el mercado de huacho en la tarde solo",false,1

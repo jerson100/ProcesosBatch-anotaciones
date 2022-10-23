@@ -1,5 +1,0 @@
-281,"María Solis","Apou965",2021-11-22,26588.0,42493.0,"Se perdió por la escuela x en la mañana con un niño",false,1
-282,"Mirto Solis","Ajui991",2021-02-13,-65889.0,-14961.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de huacho en la noche con un niño",false,1
-283,"Ruperto Turpaleon","Alpy966",2021-06-16,-6854.0,-68167.0,"La última vez que lo ví fue por la playa en la tarde solo",false,1
-284,"Juan Claros","Ajui369",2019-12-16,-33501.0,5393.0,"Se fugó por la playa en la tarde con otros perros",false,1
-285,"Mirto Claros","Alpy153",2019-08-09,-15665.0,-69188.0,"Se perdió por la plaza en la noche solo",false,1

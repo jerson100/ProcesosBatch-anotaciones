@@ -1,5 +1,0 @@
-86,"Ruperto Solis","Luna155",2018-03-06,-36248.0,22775.0,"No se por donde se me perdió exactamente pero creo que fue por el mercado de lima en la mañana con otros perros",false,1
-87,"Manuel Vasquez","Alio475",2021-02-13,-19957.0,-67942.0,"Se perdió por la plaza en la mañana solo",false,1
-88,"Marco Vasquez","Anlop42",2018-04-18,34639.0,18625.0,"Se fue por la pista en la madrugada solo",false,1
-89,"Juan Zaenz","Lacy123",2020-04-16,-39887.0,-4566.0,"La última vez que lo ví fue por la villa en la mañana con una niña",false,1
-90,"Juan Turpaleon","Anlop680",2018-08-25,31556.0,33410.0,"Se perdió por la plaza en la noche con otros perros",false,1

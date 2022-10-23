@@ -1,5 +1,0 @@
-571,"Marco Ortiz","Alpy976",2019-06-01,-26122.0,25268.0,"Se fugó por la vereda en la mañana con un niño",false,1
-572,"Ana Ortiz","Alpy836",2018-03-24,-28958.0,-26010.0,"La última vez que lo ví fue por la escuela x en la tarde solo",false,1
-573,"Pedro Ortiz","Alio981",2021-01-05,-38219.0,8097.0,"Se fugó por el mercado de huacho en la tarde con otros perros",false,1
-574,"Manuel Quispe","Anlop922",2021-07-13,-50104.0,8134.0,"Se marchó por la playa en la tarde con una niña",false,1
-575,"Manuel Turpaleon","Apou78",2021-11-11,44655.0,26051.0,"Se fugó por la vereda en la madrugada con una niña",false,1

@@ -1,5 +1,0 @@
-401,"Marco Ortiz","Lacy415",2020-12-12,-69971.0,-3776.0,"Se perdió por el mercado de huacho en la noche con un niño",false,1
-402,"María Vasquez","Alpy263",2019-04-25,24519.0,-43056.0,"Se marchó por la vereda en la madrugada con un niño",false,1
-403,"Juan Ortiz","Lacy362",2020-10-14,37032.0,-57619.0,"Se fugó por la plaza en la mañana con un niño",false,1
-404,"Marco Turpaleon","Alpy559",2021-11-23,20090.0,39697.0,"Se fue por la vereda en la madrugada con un niño",false,1
-405,"Pedro Claros","Aloiy541",2020-07-02,-65147.0,-25930.0,"Se fugó por la vereda en la mañana con una niña",false,1

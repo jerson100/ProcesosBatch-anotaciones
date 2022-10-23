@@ -1,5 +1,0 @@
-546,"María Solis","Apou795",2020-05-23,-34569.0,31826.0,"La última vez que lo ví fue por la villa en la noche solo",false,1
-547,"Ruperto Solis","Luna640",2019-11-22,28535.0,19324.0,"Se fue por la escuela x en la madrugada con una niña",false,1
-548,"Mirto Ramírez","Alñoid475",2018-01-24,-716.0,-30642.0,"Se marchó por la plaza en la tarde con una niña",false,1
-549,"Ana Ramírez","Alñoid672",2019-01-24,-50637.0,3564.0,"Se perdió por la plaza en la tarde solo",false,1
-550,"Ruperto Solis","Luna467",2018-07-21,-34786.0,28529.0,"La última vez que lo ví fue por la plaza en la noche con una niña",false,1

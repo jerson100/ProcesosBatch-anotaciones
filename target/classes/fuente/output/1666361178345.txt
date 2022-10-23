@@ -1,5 +1,0 @@
-326,"Ruperto Zaenz","Luna794",2019-04-11,-54512.0,46192.0,"Se fugó por la pista en la tarde solo",false,1
-327,"María Turpaleon","Alio834",2019-05-07,-36402.0,2997.0,"Se fugó por la vereda en la mañana con una niña",false,1
-328,"Ana Zaenz","Apou784",2018-08-17,47348.0,-42337.0,"La última vez que lo ví fue por la pista en la noche solo",false,1
-329,"Manuel Solis","Lacy903",2020-05-16,-41605.0,-39632.0,"Se perdió por el mercado de lima en la madrugada solo",false,1
-330,"Pedro Quispe","Aloiy149",2018-10-11,-41146.0,-11091.0,"Se fugó por la plaza en la mañana con un niño",false,1

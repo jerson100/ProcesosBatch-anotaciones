@@ -1,5 +1,0 @@
-306,"María Vasquez","Alio164",2020-04-06,17051.0,-19453.0,"Se fugó por el mercado de huacho en la madrugada solo",false,1
-307,"Pedro Zaenz","Aloiy469",2019-08-07,-15403.0,15704.0,"Se marchó por la vereda en la mañana con un niño",false,1
-308,"María Ortiz","Anlop270",2019-06-12,18336.0,35554.0,"La última vez que lo ví fue por la villa en la madrugada con otros perros",false,1
-309,"Ruperto Quispe","Alñoid403",2021-02-12,-68749.0,-54917.0,"La última vez que lo ví fue por la villa en la tarde con una niña",false,1
-310,"Ana Ramírez","Alpy479",2019-01-25,30698.0,-51043.0,"Se perdió por la pista en la noche con otros perros",false,1

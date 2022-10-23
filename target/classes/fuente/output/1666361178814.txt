@@ -1,5 +1,0 @@
-721,"Manuel Quispe","Aloiy646",2021-01-14,45487.0,-6070.0,"Se fugó por la pista en la mañana solo",false,1
-722,"Mirto Zaenz","Ajui638",2020-03-11,-15266.0,49268.0,"Se fugó por la villa en la madrugada con una niña",false,1
-723,"Manuel Quispe","Apou267",2020-12-11,-25966.0,18815.0,"Se perdió por el mercado de lima en la madrugada solo",false,1
-724,"Manuel Ramírez","Luna164",2019-08-19,-23659.0,-9435.0,"Se perdió por la vereda en la madrugada con un niño",false,1
-725,"Marco Claros","Alñoid191",2018-04-23,18922.0,20452.0,"Se fugó por la villa en la mañana con otros perros",false,1

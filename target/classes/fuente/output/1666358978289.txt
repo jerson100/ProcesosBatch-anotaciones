@@ -1,5 +1,0 @@
-71,"Marco Vasquez","Alñoid254",2019-10-06,-26536.0,36382.0,"Se perdió por la villa en la noche solo",false,1
-72,"Ruperto Turpaleon","Ajui261",2020-04-17,-59138.0,40384.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la tarde con otros perros",false,1
-73,"Pedro Zaenz","Ajui799",2021-02-16,-25139.0,48026.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la noche con una niña",false,1
-74,"Marco Vasquez","Alñoid736",2018-05-13,26162.0,-33026.0,"Se marchó por el mercado de lima en la madrugada con una niña",false,1
-75,"Manuel Quispe","Alio91",2018-12-20,-22431.0,38108.0,"Se fue por la escuela x en la tarde con otros perros",false,1

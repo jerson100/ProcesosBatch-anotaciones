@@ -1,5 +1,0 @@
-336,"Marco Solis","Alio382",2020-09-05,-21538.0,35012.0,"La última vez que lo ví fue por el mercado de lima en la mañana solo",false,1
-337,"María Solis","Lacy785",2020-09-09,846.0,17450.0,"Se fugó por la plaza en la tarde con otros perros",false,1
-338,"Mirto Zaenz","Alio570",2020-09-24,44563.0,9394.0,"Se fugó por la vereda en la tarde con un niño",false,1
-339,"María Quispe","Alñoid988",2018-02-12,-21366.0,28044.0,"Se fugó por la villa en la noche con un niño",false,1
-340,"María Claros","Anlop801",2020-09-10,-25397.0,-24998.0,"No se por donde se me perdió exactamente pero creo que fue por la plaza en la madrugada con una niña",false,1

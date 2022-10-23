@@ -1,5 +1,0 @@
-226,"María Vasquez","Luna690",2021-02-13,-53405.0,-40272.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la madrugada solo",false,1
-227,"María Ortiz","Apou365",2020-05-05,31416.0,3870.0,"Se perdió por la plaza en la noche con otros perros",false,1
-228,"Manuel Ramírez","Alio846",2018-11-15,-19974.0,-15149.0,"Se fue por el mercado de lima en la mañana con otros perros",false,1
-229,"Pedro Turpaleon","Alñoid818",2019-03-25,41878.0,-26204.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la mañana con una niña",false,1
-230,"María Claros","Alpy766",2020-07-10,-51169.0,-41961.0,"Se fue por la villa en la madrugada con otros perros",false,1

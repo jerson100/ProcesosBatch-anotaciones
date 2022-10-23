@@ -26,12 +26,6 @@ public class CV0201v01LanzarJob {
 
   private static ApplicationContext moContext; 
 
-  private static String[] configJob = { 
-
-        "classpath:/batch/jobs/job03-define-jobs.xml" 
-
-   }; 
-
   public static void main(String[] args) { 
 
      MOLOG.info("[DAW]=====[ Start main ]====="); 

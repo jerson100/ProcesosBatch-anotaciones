@@ -1,5 +1,0 @@
-866,"María Claros","Alio63",2020-12-24,-64571.0,2383.0,"Se marchó por la escuela x en la tarde solo",false,1
-867,"Marco Quispe","Alio570",2020-11-04,49750.0,-41788.0,"Se fugó por la escuela x en la madrugada solo",false,1
-868,"Mirto Turpaleon","Luna883",2021-06-25,37172.0,16053.0,"Se fue por la pista en la noche con una niña",false,1
-869,"Manuel Vasquez","Apou277",2020-09-07,16307.0,-29701.0,"La última vez que lo ví fue por la escuela x en la tarde con una niña",false,1
-870,"Marco Quispe","Aloiy305",2019-05-12,-51536.0,30278.0,"Se marchó por la plaza en la noche con un niño",false,1

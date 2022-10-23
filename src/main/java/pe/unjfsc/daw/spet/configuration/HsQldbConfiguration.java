@@ -1,14 +1,10 @@
 package pe.unjfsc.daw.spet.configuration;
 
-import javax.activation.DataSource;
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.jdbc.datasource.SingleConnectionDataSource;
-import org.springframework.jdbc.datasource.init.DataSourceInitializer;
-import org.springframework.jdbc.datasource.init.DatabasePopulator;
 import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
 import org.springframework.core.io.Resource;
 
@@ -17,6 +13,9 @@ public class HsQldbConfiguration {
 
 	@Value("classpath:/org/springframework/batch/core/schema-hsqldb.sql")
 	private Resource dataScript;
+	
+	@Value("classpath:/org/springframework/batch/core/schema-drop-hsqldb.sql")
+	private Resource dataScriptDrop;
 	
 	@Bean
 	public SingleConnectionDataSource getDataSource() {
@@ -33,7 +32,8 @@ public class HsQldbConfiguration {
 	@Bean
 	public ResourceDatabasePopulator initializeDataBase() {
 	    ResourceDatabasePopulator populator = new ResourceDatabasePopulator();
-	    populator.setScripts(dataScript);
+	    populator.addScript(dataScriptDrop);
+	    populator.addScript(dataScript);
 	    return populator;
 	}
 	

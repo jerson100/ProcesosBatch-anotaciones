@@ -1,5 +1,0 @@
-126,"Ana Ramírez","Alio926",2018-01-09,-49572.0,-43015.0,"La última vez que lo ví fue por la pista en la noche con un niño",false,1
-127,"Ruperto Solis","Apou187",2021-01-12,3665.0,-3116.0,"Se fue por la vereda en la noche solo",false,1
-128,"Marco Vasquez","Alñoid146",2021-01-16,32463.0,-54679.0,"Se perdió por el mercado de huacho en la madrugada con una niña",false,1
-129,"Ana Ramírez","Alio838",2018-08-23,-15769.0,-65249.0,"Se marchó por el mercado de huacho en la mañana con otros perros",false,1
-130,"Mirto Ramírez","Anlop387",2021-05-08,-59256.0,-58669.0,"La última vez que lo ví fue por el mercado de lima en la madrugada solo",false,1

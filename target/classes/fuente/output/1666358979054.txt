@@ -1,5 +1,0 @@
-741,"Manuel Turpaleon","Luna158",2018-11-10,28466.0,-39729.0,"La última vez que lo ví fue por la pista en la mañana con una niña",false,1
-742,"Pedro Solis","Alpy52",2019-03-23,-22135.0,4580.0,"Se fue por la plaza en la mañana con una niña",false,1
-743,"Ruperto Vasquez","Luna653",2018-11-22,34938.0,31274.0,"La última vez que lo ví fue por la playa en la madrugada con otros perros",false,1
-744,"Manuel Claros","Alñoid535",2021-08-04,-30231.0,10008.0,"Se fue por la playa en la tarde con una niña",false,1
-745,"Pedro Quispe","Ajui713",2020-02-14,5308.0,-40487.0,"No se por donde se me perdió exactamente pero creo que fue por la vereda en la madrugada con un niño",false,1

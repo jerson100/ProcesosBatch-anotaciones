@@ -1,5 +1,0 @@
-296,"Juan Vasquez","Luna619",2019-09-09,-16061.0,-66949.0,"Se perdió por la playa en la mañana con un niño",false,1
-297,"Pedro Claros","Anlop657",2019-07-04,19753.0,-47558.0,"La última vez que lo ví fue por la villa en la madrugada con un niño",false,1
-298,"Ana Ortiz","Apou991",2020-07-20,25063.0,-59495.0,"La última vez que lo ví fue por la vereda en la madrugada con un niño",false,1
-299,"Ruperto Ramírez","Lacy918",2019-10-13,30124.0,8633.0,"Se fugó por la escuela x en la noche con otros perros",false,1
-300,"Mirto Zaenz","Luna886",2021-03-03,-46062.0,-34145.0,"Se perdió por la pista en la madrugada con otros perros",false,1

@@ -1,5 +1,0 @@
-851,"Mirto Ortiz","Anlop934",2021-09-03,-59992.0,-56326.0,"Se perdió por la vereda en la madrugada solo",false,1
-852,"Mirto Quispe","Lacy679",2021-10-12,-298.0,28820.0,"Se fugó por el mercado de huacho en la tarde con un niño",false,1
-853,"Ruperto Solis","Alñoid74",2021-05-13,-27596.0,-29643.0,"Se fue por la vereda en la mañana solo",false,1
-854,"Ruperto Solis","Anlop936",2021-08-01,-56833.0,38709.0,"Se marchó por la vereda en la tarde solo",false,1
-855,"Marco Solis","Alpy830",2021-10-11,49557.0,35833.0,"Se fugó por la playa en la tarde solo",false,1

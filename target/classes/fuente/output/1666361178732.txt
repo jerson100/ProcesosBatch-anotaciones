@@ -1,5 +1,0 @@
-641,"Ana Quispe","Alpy703",2020-04-09,779.0,7853.0,"Se perdió por el mercado de huacho en la madrugada con una niña",false,1
-642,"Ana Ramírez","Alio430",2018-08-11,-6598.0,19939.0,"Se fue por la plaza en la madrugada con una niña",false,1
-643,"María Claros","Aloiy562",2020-07-10,-47508.0,16503.0,"Se marchó por el mercado de huacho en la noche con otros perros",false,1
-644,"Pedro Turpaleon","Aloiy382",2020-03-01,-16924.0,49361.0,"Se fue por el mercado de lima en la noche solo",false,1
-645,"Juan Ramírez","Aloiy193",2020-03-10,4598.0,2608.0,"Se perdió por la pista en la madrugada con un niño",false,1

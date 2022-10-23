@@ -1,5 +1,0 @@
-161,"María Ortiz","Alpy65",2021-04-11,-8085.0,18370.0,"Se fue por la playa en la madrugada solo",false,1
-162,"Juan Turpaleon","Aloiy307",2021-09-11,-31508.0,-46257.0,"No se por donde se me perdió exactamente pero creo que fue por la pista en la mañana con otros perros",false,1
-163,"Mirto Claros","Apou590",2018-08-21,-49643.0,-63576.0,"Se perdió por la plaza en la madrugada solo",false,1
-164,"Mirto Turpaleon","Alñoid175",2021-01-16,-10514.0,-25131.0,"La última vez que lo ví fue por el mercado de lima en la noche con otros perros",false,1
-165,"Juan Quispe","Anlop880",2019-09-13,33933.0,3380.0,"Se fugó por la pista en la tarde solo",false,1

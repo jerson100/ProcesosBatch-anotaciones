@@ -1,5 +1,0 @@
-921,"Manuel Vasquez","Alpy297",2021-08-02,-68815.0,-8332.0,"Se fugó por el mercado de huacho en la noche con una niña",false,1
-922,"Juan Turpaleon","Anlop945",2019-03-06,16095.0,1108.0,"La última vez que lo ví fue por el mercado de lima en la mañana con un niño",false,1
-923,"Marco Claros","Anlop585",2020-05-23,-16530.0,6295.0,"Se perdió por la playa en la noche con un niño",false,1
-924,"María Vasquez","Lacy147",2020-01-21,-7594.0,-66950.0,"Se fugó por la plaza en la mañana solo",false,1
-925,"María Turpaleon","Apou535",2020-10-08,45621.0,-55355.0,"Se perdió por el mercado de lima en la mañana con un niño",false,1

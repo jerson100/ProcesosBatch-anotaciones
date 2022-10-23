@@ -1,5 +1,0 @@
-51,"Juan Turpaleon","Luna799",2018-11-16,38165.0,-14068.0,"Se fugó por el mercado de lima en la noche con una niña",false,1
-52,"Juan Ortiz","Luna539",2020-07-22,13398.0,47990.0,"Se fue por el mercado de lima en la madrugada con un niño",false,1
-53,"Ana Vasquez","Apou869",2020-04-19,25062.0,-52035.0,"La última vez que lo ví fue por la pista en la mañana solo",false,1
-54,"Ana Turpaleon","Alñoid37",2018-11-08,28438.0,-88.0,"La última vez que lo ví fue por la villa en la madrugada con un niño",false,1
-55,"Mirto Solis","Luna767",2021-01-16,36568.0,-17259.0,"Se perdió por la plaza en la noche solo",false,1

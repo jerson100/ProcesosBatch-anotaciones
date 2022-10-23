@@ -1,5 +1,0 @@
-6,"María Claros","Apou4",2020-06-19,-58937.0,-36152.0,"Se fugó por la escuela x en la noche solo",false,1
-7,"Pedro Ramírez","Alpy9",2018-03-10,35445.0,-24667.0,"Se fue por la pista en la mañana con un niño",false,1
-8,"Marco Ortiz","Anlop3",2021-08-15,6078.0,-52855.0,"No se por donde se me perdió exactamente pero creo que fue por la escuela x en la tarde solo",false,1
-9,"Manuel Quispe","Alpy7",2019-03-09,-7533.0,18426.0,"Se perdió por el mercado de huacho en la mañana solo",false,1
-10,"Marco Turpaleon","Alio5",2020-11-01,10346.0,31506.0,"Se fugó por el mercado de lima en la tarde con otros perros",false,1
